@@ -1,9 +1,14 @@
 # Curriculum
 
+## Полезные материалы для чтения
+
+[markdown guide](https://www.markdownguide.org/basic-syntax/)
+
 ## Создание курса
 
 Для добавления курса необходимо создать директорию в папке ./courses.
 ```
+|__ res [-1]
 |__ courses
     `__ course_name [0]
         |-- .config [1]
@@ -12,6 +17,9 @@
             |__ readme.md
             |__ .config
 ```
+
+### [-1] res
+Директория с картинками для уроков
 
 ### [0] course_name
 Название курса на английском, хранит в себе директории с уроком и файлы .config, readme.md
