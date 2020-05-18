@@ -18,7 +18,7 @@
 
 ### [1] .config
 Файл содержит информацию о курсе
-```
+```text
 name: shell-intro
 title: Основы shell
 prev: none
@@ -36,12 +36,12 @@ prev: none
 содержащий контент урока.
 
 > пример 1_lesson/.config
-```
+```text
 name: Алгоритмы реализации очереди CPU
 ``` 
 
 > пример 1_lesson/readme.md
-```
+```text
 # Алгоритмы реализации очереди CPU
 
 https://www.guru99.com/cpu-scheduling-algorithms.html
