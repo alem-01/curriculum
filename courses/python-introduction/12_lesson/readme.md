@@ -1,3 +1,4 @@
+
 # Dictionary
 - dictionary (словари) - неупорядоченные коллекции произвольных объектов с доступом по ключу. Их иногда ещё называют ассоциативными массивами или хеш-таблицами. Очень схожа по применению с обычным словарем, есть ключевое слово которе хранит некое значение, dict = {"home": "дом", "school": "дом", "year": "год"}
 | Метод  | Что делает  |
@@ -11,6 +12,6 @@
 
 <a href="https://www.programiz.com/python-programming/dictionary" target="_blank">Очень подробные примеры использования.</a> 
 
-Для практики и применения, зайдите <a href="https://www.w3schools.com/python/python_sets.asp" target="_blank">сюда.</a>    
+Для практики и применения, зайдите <a href="https://www.w3schools.com/python/python_sets.asp" target="_blank">сюда.</a>  
 
 
