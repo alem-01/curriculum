@@ -49,6 +49,7 @@ echo "Hello World" > file.txt
 
 `>` выполняет роль проводника данных. Т.е. вывод одной команды перенаправился в file.txt
 [более подробно](https://www.guru99.com/linux-redirection.html)
+[i/o redirection](https://ryanstutorials.net/linuxtutorial/piping.php)
 
 Для просмотра содержимого регулярных файлов есть команда `cat`
 ```text
