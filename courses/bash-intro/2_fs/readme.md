@@ -1,4 +1,4 @@
-#Файловая система и навигация
+# Файловая система и навигация
 
 [Видео о файловой системе](https://cs.petrsu.ru/~vadim/shell-html/s_u_2_ru.htm)
 
@@ -68,6 +68,24 @@ cat file.txt
 cat <<EOF> filename
 Hello World
 EOF
+```
+
+Для удаления файла используется команда `rm`
+
+```shell script
+rm file
+```
+
+Для создания папки
+
+```shell script
+mkdir dir
+```
+
+Для удаления папки
+
+```shell script
+rm -rf dir
 ```
 
 [EOF](https://ru.wikipedia.org/wiki/EOF)
