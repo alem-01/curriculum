@@ -1,4 +1,7 @@
 # Среда shell
+<iframe width="560" height="315" src="https://www.youtube.com/embed/npZYUkXFqd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe height="400px" width="100%" src="https://repl.it/repls/DapperRaggedCodeview?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 [Bash](https://ru.wikipedia.org/wiki/Bash) - (комaндная оболочка Linux, часто просто «шелл» или «sh») — 
 **командный интерпретатор**, используемый в **операционных системах** семейства
