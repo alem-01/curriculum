@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4b52d90-967e-431c-9e43-8939bcad6f1d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/courses/bash-intro/5_final/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/courses/bash-intro/5_final/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +57,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="601" y="535" width="578" height="410" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589544150425">
       <screen x="60" y="27" width="3380" height="1413" />
     </state>
     <state x="601" y="535" width="578" height="410" key="#com.intellij.fileTypes.FileTypeChooser/60.27.3380.1413@60.27.3380.1413" timestamp="1589544150425" />
+    <state x="2110" y="491" width="424" height="491" key="FileChooserDialogImpl" timestamp="1589952631094">
+      <screen x="60" y="27" width="3380" height="1413" />
+    </state>
+    <state x="2110" y="491" width="424" height="491" key="FileChooserDialogImpl/60.27.3380.1413@60.27.3380.1413" timestamp="1589952631094" />
     <state x="676" y="648" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589887329927">
       <screen x="60" y="27" width="3380" height="1413" />
     </state>
