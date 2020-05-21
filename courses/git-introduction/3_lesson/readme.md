@@ -6,6 +6,5 @@
 - **git branch -d feature_x** для удаления ветви feature_x.
 - **git merge feature_x** для объединения с веткой feature_x. При мердже могут быть конфликты в некоторых файлах, git обязательно сообщит тебе об этом. Это означает что есть файл который есть в обоих ветках, но его внутренности отличаются друг от друга, поэтому тебе нужно поменять код внутри одного из них, чтобы они были одинковыми, и сделать **git add .** и **git commit**, коммит без комментариев.
     
-<a href="https://www.youtube.com/watch?v=XX-Kct0PfFc" target="_blank">Видео на тему branches.</a>    
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XX-Kct0PfFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

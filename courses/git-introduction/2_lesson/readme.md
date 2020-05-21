@@ -11,5 +11,5 @@
 - **git log** для того, чтобы узнать хэш твоего старого коммита, выглядит он примерно так - 12345678901234567890123456789012345678ab
 - **git checkout commit_hash** вместо commit_hash вставляешь хэш коммита который тебе нужен, поздравляю, теперь ты видишь свой старый код.
 
-<a href="https://www.youtube.com/watch?v=RIYrfkZjWmA&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=7" target="_blank">Видео на тему отката к предыдущей версии.</a>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RIYrfkZjWmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
