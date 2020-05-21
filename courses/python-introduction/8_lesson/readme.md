@@ -19,8 +19,10 @@ def getHypotenuse(catet1, catet2):
 
 print(getHypotenuse(3, 4))  
 ```
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DJAlfolEv9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+   
 
-<a href="https://www.youtube.com/watch?v=DJAlfolEv9A" target="_blank">Видео-материал</a>   
 
 Материалы для изучения и практики находятся <a href="https://python-scripts.com/functions-python" target="_blank">здесь</a> и <a href="https://wombat.org.ua/AByteOfPython/functions.html" target="_blank">здесь</a>   
 

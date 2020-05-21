@@ -22,13 +22,17 @@
 Со строками можно проводить операции "+", "*", in, not in, [:]. Подробнее расписано <a href="https://www.tutorialsteacher.com/python/python-string" target="_blank">тут.</a>   
 
 
-**Обязательно посмотрите видео по присвоению переменной других переменных.** <a href="https://www.youtube.com/watch?v=_OZIAHg5i7M" target="_blank">Видео.</a>
+**Обязательно посмотрите видео по присвоению переменной других переменных.**   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_OZIAHg5i7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Полезная <a href="https://www.tutorialsteacher.com/python/python-data-types" target="_blank">ссылка.</a> по данной теме с иллюстрациями.
 
-Нужно вставить рисунки отсюда: https://www.tutorialsteacher.com/python/python-string
 
-# Слабая типизация  
+<a href="https://www.tutorialsteacher.com/python/python-string" target="_blank">Примеры использования.</a>  
+
+
+Слабая типизация  
 Python является слабо типированным языком программирования, это означает что если переменная содержала в себе некий тип данных, ничего ей не мешает присвоить другой тип данных, например:
 ```python
 name = "John"  
