@@ -17,6 +17,6 @@
  - **git push origin master**. Сохраняет все твои изменения в git. В кратце эта операция называется пушить.   
  
  
- <a href="https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=1" target="_blank">Видео материал git.</a>     
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3RjQznt-8kE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
 
 
