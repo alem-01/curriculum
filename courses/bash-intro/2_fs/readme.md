@@ -1,6 +1,4 @@
-# Файловая система и навигация
-
-[Видео о файловой системе](https://cs.petrsu.ru/~vadim/shell-html/s_u_2_ru.htm)
+# Файловая система
 
 При открытии терминала, мы находимся в $HOME.
 
@@ -11,26 +9,25 @@
 ls
 ```
 
-`ls` - это [программа](https://www.opennet.ru/man.shtml?topic=ls&category=1), которая отображает файлы и их информацию. 
+`ls` — это [программа](https://www.opennet.ru/man.shtml?topic=ls&category=1), которая отображает файлы и их информацию. 
 
-Для просмотра базовой информации о функционале программы можно получить, вызвав команду man <программа>
-```shell script
+Для просмотра базовой информации о функционале программы можно получить, вызвав команду `man <программа>`.
+```sh
 man ls
 ```
 
-Для навигации, мы можем использовать команду `cd`.
+Для перехода в папки, мы можем использовать команду `cd`.
 
-Есть два универсальных аргумента, это `.` и `..`. \
-`.` - это текущая директория. \
-`..` - это указатель назад.
+Есть два универсальных аргумента, это `.` и `..`
+
+`.` — это текущая директория. \
+`..` — это указатель назад.
 
 Мы можем переместиться назад используя
 
 ```sh
 cd ..
 ```
-
-[Команды ls, rm, mkdir, pwd, cd, echo](https://www.youtube.com/watch?v=XAfDrMeqoHY)
 
 Переменная `$PWD` хранит в себе информацию о текущем местоположении
 
@@ -44,7 +41,12 @@ echo $PWD
 - Ссылка (ярлык)
 - Socket и т.д.
 
-[Файлы и папки](https://www.youtube.com/watch?v=1WV-OsaCzbo)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1WV-OsaCzbo?start=112" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+____
+
+### Перенаправления
 
 Для создания файла с текстом
 
@@ -52,50 +54,68 @@ echo $PWD
 echo "Hello World" > file.txt
 ```
 
-`>` выполняет роль проводника данных. Т.е. вывод одной команды перенаправился в file.txt
-[более подробно](https://www.guru99.com/linux-redirection.html)
-[i/o redirection](https://ryanstutorials.net/linuxtutorial/piping.php)
+`>` выполняет роль проводника данных. Т.е. вывод команды перенаправился в file.txt
 
 Для просмотра содержимого регулярных файлов есть команда `cat`
-```text
+```sh
 cat file.txt
 ```
-> Hello World
 
+```sh
+> Hello World
+```
 
 Есть более изощренные методы создания файла.
-```text
-cat <<EOF> filename
+
+```sh
+cat <<EOF> file.txt
 Hello World
 EOF
 ```
 
 Для удаления файла используется команда `rm`
 
-```shell script
+```sh
 rm file
 ```
 
 Для создания папки
 
-```shell script
+```sh
 mkdir dir
 ```
 
 Для удаления папки
 
-```shell script
+```sh
 rm -rf dir
 ```
 
-[EOF](https://ru.wikipedia.org/wiki/EOF)
+___
 
-## Практическое задание
+### Практическое задание
 
 Ваня Пупкин подключился к удаленному серверу по ssh. Но он не умеет пользоваться терминалом.
-В домашней директории пользователя необходимо создать директорию project с файлом .env
+В домашней директории пользователя необходимо создать директорию _project_ с файлом _.env_. В файле _.env_ должно быть следующее содержимое:
 ```
 export WELCOME="hello cruel world"
 ```
-Помогите Ване.
-Для решения задачи можно использовать терминал repl.it
+Помогите Ване. Решите задачу в этом окне.
+
+<iframe height="400px" width="100%" src="https://repl.it/repls/ScentedInfiniteSpellchecker?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+___
+
+### Полезные ссылки
+
+[Развернутая статья про файловую систему UNIX](https://cs.petrsu.ru/~vadim/shell-html/s_u_2_ru.htm)
+
+[Команда ls](https://www.opennet.ru/man.shtml?topic=ls&category=1)
+
+[Команды ls, rm, mkdir, pwd, cd, echo](https://www.youtube.com/watch?v=XAfDrMeqoHY)
+
+[Статья про перенаправление вывода команды](https://www.guru99.com/linux-redirection.html)
+
+[Еще круче статья про перенаправления](https://ryanstutorials.net/linuxtutorial/piping.php)
+
+[Что такое EOF?](https://ru.wikipedia.org/wiki/EOF)

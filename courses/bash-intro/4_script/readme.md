@@ -1,47 +1,65 @@
 # bash scripting
 
-### Преимущества bash скриптов
+Преимущества bash скриптов
 - Автоматизация задач, уменьшив риск на ошибки
-- Комбинация несколько программ в одно
+- Комбинация нескольких программ в одно
 - Не нужно компилировать
 
 Давайте создадим простой bash скрипт.
 
-создайте файл hello.sh
+Cоздайте файл hello.sh со следующим содержимым.
 
-```shell script
+```sh
 #!/bin/bash
 echo "Hello alem!"
 ```
 
 запустим скрипт
 
-```shell script
+```sh
 bash hello.sh
 ```
-> Hello alem!
 
-для того, что бы запускать файл без использования команды bash
-достаточно поменять права файлу
-
-```shell script
-chmod +x hello.sh
-./hello.sh
+```sh
+$> Hello alem!
 ```
 
-Для интерактивной программы мы можем использовать команду `read`
+для того, что бы запускать файл без использования команды bash
+достаточно поменять права файлу.
+
+```sh
+chmod +x hello.sh # меняем права
+./hello.sh        # запускаем скрипт
+```
+____
+
+Для чтения ввода мы можем использовать команду `read`
 
 Создадим еще один файл welcome.sh
-```shell script
+```sh
 #!/bin/bash
 echo "ENTER YOUR NAME"
-read name
-echo WELCOME $name
-# comment
+read name # читаем ввод
+echo "Welcome, $name"
 ```
 
 Мы можем обращаться к переменным, которые создаем через символ `$`
-Для комментариев, используется символ `#` - он не выполняется
+
+Для комментариев, используется символ `#` — он не выполняется
+
+___
+
+### Практическое занятие
+
+Создайе скрипт которые считывает имя, возраст и страну и выведет:
+```
+Hello, <имя>! You are age of <возраст> and you are from <страна>.
+```
+
+<iframe height="400px" width="100%" src="https://repl.it/@atlekbai/script?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+___
+
+### Полезные ссылки
 
 [Продолжение](http://www.pepedocs.com/notes?tid=linux&nid=lfs101x#ch15_16)
 
