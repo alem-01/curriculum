@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9cc2fb4-6502-4abb-ad35-a24611e519f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/courses/bash-intro/1_intro/.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/bash-intro/1_intro/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/bash-intro/2_fs/.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/bash-intro/2_fs/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/bash-intro/3_user/.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/bash-intro/3_user/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/bash-intro/4_script/.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/bash-intro/4_script/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/bash-intro/5_final/.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/bash-intro/5_final/readme.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/snap/go/5759" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cWjCt1dQjI5m7SIJVKrbPpuZjv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1413" y="349" width="672" height="678" key="search.everywhere.popup" timestamp="1590659838991">
+      <screen x="60" y="27" width="3380" height="1413" />
+    </state>
+    <state x="1413" y="349" width="672" height="678" key="search.everywhere.popup/60.27.3380.1413@60.27.3380.1413" timestamp="1590659838991" />
+  </component>
+</project>
