@@ -10,31 +10,12 @@
 Попробуй написать свою функцию линейного поиска, где тебе дается список из целых чисел, и тебе нужно сказать  
 есть ли это слово в списке или нет.
 
-# Code prototype 
-``` python
+### Попробуй написать функцию linear_search.
 
-lst = [1, 2, 3, 4, 5, 6]
-to_find = 3 # или 7
-def linear_search(lst, to_find):
-    # Если to_find есть в списке lst, нужно сделать print(to_find, "exists in the list")
-
-linear_search(lst, to_find)
-```
+<iframe height="400px" width="100%" src="https://repl.it/repls/ActiveAdorableGoal?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
 Если не получается, пытайся до тех пор, пока не получится.  
 В конце концов, можешь посмотреть решение тут.
 
-``` python
-lst = [1, 2, 3, 4, 5, 6]
-to_find = 87 # или 7
-def linear_search(lst, to_find):
-    for i in lst:
-        if (i == to_find):
-            print(to_find, "exists in the list")
-            return # return заканчивает функцию
-    print(to_find, "does not exist in the list")
-    
-
-linear_search(lst, to_find)
-```
+<iframe height="400px" width="100%" src="https://repl.it/repls/OurFloweryCell?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
