@@ -2,10 +2,10 @@
 
 Динамическое программирование — способ решения сложных задач путём разбиения их на более простые подзадачи.  
 На уроке рекурсии мы проходили числа Фибоначчи, где каждое число Фибоначчи это сумма двух предыдущих чисел Фибоначчи.  
-Fib(0) = 0  
-Fib(1) = 1  
-Fib(2) = 1  
-Fib(3) = 2 и так далее. Для нахождения числа Fib(n), можно разделить задачу сумму двех подзадач, т.е. Fib(n) = Fib(n - 1) + Fib(n - 2).  
+- Fib(0) = 0  
+- Fib(1) = 1  
+- Fib(2) = 1  
+- Fib(3) = 2 и так далее. Для нахождения числа Fib(n), можно разделить задачу сумму двех подзадач, т.е. Fib(n) = Fib(n - 1) + Fib(n - 2).  
 Здесь задачу для **n** раздроблена на подзадачи поменьше, и теперь нужно решить их.  
 
 Для большего понятие Динамического программирования (ДП), давай разберем следующую задачу:
@@ -16,116 +16,20 @@ Fib(3) = 2 и так далее. Для нахождения числа Fib(n), 
 - На вторую ступень он может подняться 2 способами, сделав 2 шага высотой один, либо 1 шаг высотой 2 - (1, 1) или (2).  
 - На третью ступень можно сделать (1, 1, 1), (1, 2), (2, 1).  
 
-``` python
-n = 7
-def steps(n):
-    # Верни количество способов попасть на ступеньку n
-    # return ans
-
-for i in range (0, n):
-    print(steps(i))
-
-```
+<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/IndolentUntriedLaboratory?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>  
 
 
+Если не получается, пытайся до тех пор, пока не получится.  
+В конце концов, можешь посмотреть <a href="https://repl.it/@SakenMukanov/JuniorUsefulExpertise" target="_blank">Решение</a>.  
 
-``` python
-n = 7
-def steps(n):
-    if (n == 0):
-        return 0
-    elif (n == 1):
-        return 1
-    else: 
-        return steps(n - 1) + steps(n - 2)
-for i in range (0, n):
-    print(steps(i))
-
-```
 
 
 Следующая задача звучит следующим образом, есть шахматная доска где Вася стоит в левом верхнем углу, ему нужно дойти до правого нижнего угла, и он может ходить только вниз или направо. На каждой клетке стоит некоторое количество монет которое Вася подбирает если он находится клетке. Нужно сказать сколько максимальное количество монет которое Вася может заработать дойдя до правого нижнего угла. 
 
 
-
-
-``` python  
-import random
-
-lst = []
-sum = []
-n = 5
-
-def max(a, b):
-    if (a < b):
-        return b
-    return a
-
-
-def maxCoins(lst, n):
-    # Нужно вернуть максимальное количество монет которые можно собрать дойдя до правого нижнего угла
-    # return ans;
-
-
-for i in range(n):
-    tmp = []
-    for j in range(n):
-        tmp.append(random.randint(1, 9))
-    lst.append(tmp)
-
-for i in range(n):
-    print(lst[i])
-
-print(maxCoins(lst, n), '\n')
-
-for i in range(n):
-    print(lst[i])
+<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/SwiftConventionalIntroductory?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
 
-```
-
-
-
-``` python  
-import random
-
-lst = []
-sum = []
-n = 5
-
-def max(a, b):
-    if (a < b):
-        return b
-    return a
-
-
-def maxCoins(lst, n):
-    for i in range(n):
-        for j in range(n):
-            if (i == 0 and j == 0):
-                lst[i][j] = lst[i][j] # Ничего не делай
-            elif (i == 0):
-                lst[i][j] = lst[i][j - 1] + lst[i][j]
-            elif (j == 0):
-                lst[i][j] = lst[i - 1][j] + lst[i][j]
-            else :
-                lst[i][j] = max(lst[i - 1][j], lst[i][j - 1]) + lst[i][j]
-    return lst[n - 1][n - 1]
-
-
-for i in range(n):
-    tmp = []
-    for j in range(n):
-        tmp.append(random.randint(1, 9))
-    lst.append(tmp)
-
-for i in range(n):
-    print(lst[i])
-
-print(maxCoins(lst, n), '\n')
-
-for i in range(n):
-    print(lst[i])
-
-```
+Если не получается, пытайся до тех пор, пока не получится.  
+В конце концов, можешь посмотреть <a href="https://repl.it/@SakenMukanov/InsubstantialSplendidArray" target="_blank">Решение</a>.  

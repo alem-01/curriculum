@@ -23,33 +23,9 @@ selection sort, но он такой же медленный. Более эфф�
 неотсортирован. В целом, если в списке **n** элементов, достаточно **n - 1** итераций, можешь  
 наглядно увидеть это, отсортировав список (5, 4, 3, 2, 1). 
 
+<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/NavyFrenchRuntimeerror?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-``` python 
-lst = [6, 4, 5, 2, 1, 3]
 
-def bubble_sort(lst):
-    # Нужно отсортировать пузырьком        
+Если не получается, пытайся до тех пор, пока не получится.  
+В конце концов, можешь посмотреть <a href="https://repl.it/@SakenMukanov/PresentFortunateCron" target="_blank">Решение</a>.  
 
-bubble_sort(lst)
-print(lst)
-
-```
-
-Ответ
-
-``` python
-lst = [6, 4, 5, 2, 1, 3]
-
-def bubble_sort(lst):
-    for i in range (0, len(lst)):
-        for j in range (0, len(lst) - 1):
-            if (lst[j] > lst[j + 1]):
-                tmp = lst[j]
-                lst[j] = lst[j + 1]
-                lst[j + 1] = tmp
-        
-
-bubble_sort(lst)
-print(lst)
-
-```

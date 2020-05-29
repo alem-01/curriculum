@@ -66,34 +66,12 @@ print(power(num, pwr))
 ```
 
 
-Также, прочитай про числа фибоначи, и попробуй сделать функцию для вывода числа фибоначи.
+Также, прочитай про числа Фибоначчи, и попробуй сделать функцию для вывода числа фибоначи.
 
-``` python
-num = 10
-
-def fib(n):
-    # верни n'ное число фибоначчи
-    # return ans
-
-for i in range (0, num):
-    print(fib(i))
+<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/RectangularSupportiveMuse?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
-```
 
-
-``` python 
-
-num = 10
-def fib(num):
-    if (num == 1):
-        return 1
-    if (num == 0):
-        return 0
-    return (fib(num - 1) + fib(num - 2))
-
-for i in range (0, num):
-    print(fib(i))
-
-```
+Если не получается, пытайся до тех пор, пока не получится.  
+В конце концов, можешь посмотреть <a href="https://repl.it/@SakenMukanov/SleepyAntiqueMetric" target="_blank">Решение</a>.  
 

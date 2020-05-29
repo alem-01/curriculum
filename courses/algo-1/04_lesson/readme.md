@@ -11,40 +11,11 @@
 1. Из всего списка ищем минимальный элемент и ставим его на начало списка.
 1. Перемещаем начало списка на один элемент правее предыдущего и возвращаемся к первому шагу.
 
-# Prototype
 
-``` python
-lst = [6, 4, 5, 2, 1, 3]
-
-def selection_sort(lst):
-    # Нужно отсортировать список lst
-    
-
-selection_sort(lst, to_find)
-print(lst)
-
-```
-
-# Code  
-
-``` python  
-lst = [6, 4, 5, 2, 1, 3]
-
-def selection_sort(lst):
-    for i in range (0, len(lst)):
-        min = lst[i]
-        ind = i
-        for j in range (i + 1, len(lst)):
-            if (lst[j] < min):
-                min = lst[j]
-                ind = j
-        tmp = lst[i]
-        lst[i] = lst[ind]
-        lst[ind] = tmp
+<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/ZestyMiserableJavabeans?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
-selection_sort(lst)
-print(lst)
+Если не получается, пытайся до тех пор, пока не получится.  
+В конце концов, можешь посмотреть <a href="https://repl.it/@SakenMukanov/ScrawnySpecializedDisk" target="_blank">Решение</a>.  
 
 
-```
