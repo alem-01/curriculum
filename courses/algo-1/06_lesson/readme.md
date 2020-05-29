@@ -9,10 +9,31 @@
 - Факториала негативного числа нет.  
 - 0! = 1.  
 
-# Code prototype  
 
-# Code  
+``` python
+num = 5
+def factorial(num):
+    # Нужно написать рекурсивную функцию для нахождения факториала
+    # return ans 
 
+print(factorial(num)
+
+```
+
+
+
+
+``` python
+num = 5
+def factorial(num):
+if (num == 1 or num == 0):
+    return 1
+else :
+    return num * factorial(num - 1) 
+
+print(factorial(num))
+
+```
 
 Схожую аналогию можно сделать для выведения степени числа, например 3^4, три в четвертой степени.  
 3^4 = 3^3 * 3  
@@ -21,14 +42,58 @@
 3^1 = 3^0 * 3  
 3^0 = 1  
 
-# Code prototype  
+``` python  
+num = 7
+pwr = 2
+def power(num, pwr):
+    # верни num в степени pwr
+    # return ans
+print(power(num, pwr))
+```
 
-# Code  
+``` python  
+num = 7
+pwr = 2
+def power(num, pwr):
+    if (pwr == 1):
+        return num
+    elif (pwr == 0):
+        return 1
+    else:
+        return num * power(num, pwr - 1) 
+
+print(power(num, pwr))
+```
 
 
 Также, прочитай про числа фибоначи, и попробуй сделать функцию для вывода числа фибоначи.
 
-# Code prototype  
+``` python
+num = 10
 
-# Code  
+def fib(n):
+    # верни n'ное число фибоначчи
+    # return ans
+
+for i in range (0, num):
+    print(fib(i))
+
+
+```
+
+
+``` python 
+
+num = 10
+def fib(num):
+    if (num == 1):
+        return 1
+    if (num == 0):
+        return 0
+    return (fib(num - 1) + fib(num - 2))
+
+for i in range (0, num):
+    print(fib(i))
+
+```
 
