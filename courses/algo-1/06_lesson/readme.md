@@ -42,29 +42,6 @@ print(factorial(num))
 3^1 = 3^0 * 3  
 3^0 = 1  
 
-``` python  
-num = 7
-pwr = 2
-def power(num, pwr):
-    # верни num в степени pwr
-    # return ans
-print(power(num, pwr))
-```
-
-``` python  
-num = 7
-pwr = 2
-def power(num, pwr):
-    if (pwr == 1):
-        return num
-    elif (pwr == 0):
-        return 1
-    else:
-        return num * power(num, pwr - 1) 
-
-print(power(num, pwr))
-```
-
 
 Также, прочитай про числа Фибоначчи, и попробуй сделать функцию для вывода числа фибоначи.
 
