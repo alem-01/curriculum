@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9cc2fb4-6502-4abb-ad35-a24611e519f5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/courses/bash-intro/1_intro/.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/bash-intro/1_intro/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/bash-intro/2_fs/.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/bash-intro/2_fs/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/bash-intro/3_user/.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/bash-intro/3_user/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/bash-intro/4_script/.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/bash-intro/4_script/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/bash-intro/5_final/.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/bash-intro/5_final/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/js-intro/03_types/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/courses/js-intro/03_types/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +66,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1413" y="349" width="672" height="678" key="search.everywhere.popup" timestamp="1590659838991">
