@@ -9,32 +9,6 @@
 - Факториала негативного числа нет.  
 - 0! = 1.  
 
-
-``` python
-num = 5
-def factorial(num):
-    # Нужно написать рекурсивную функцию для нахождения факториала
-    # return ans 
-
-print(factorial(num)
-
-```
-
-
-
-
-``` python
-num = 5
-def factorial(num):
-if (num == 1 or num == 0):
-    return 1
-else :
-    return num * factorial(num - 1) 
-
-print(factorial(num))
-
-```
-
 Схожую аналогию можно сделать для выведения степени числа, например 3^4, три в четвертой степени.  
 3^4 = 3^3 * 3  
 3^3 = 3^2 * 3  
