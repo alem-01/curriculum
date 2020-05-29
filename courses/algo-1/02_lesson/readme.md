@@ -13,5 +13,5 @@
 <iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/TintedOffshoreLevels?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>  
 
 Если не получается, пытайся до тех пор, пока не получится.  
-В конце концов, можешь посмотреть <a href="https://repl.it/@SakenMukanov/TintedOffshoreLevels" target="_blank">Решение</a>.  
+В конце концов, можешь посмотреть <a href="https://repl.it/@SakenMukanov/GratefulExcitedMainframe" target="_blank">Решение</a>.  
 
