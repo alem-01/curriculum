@@ -21,6 +21,7 @@ n = 7
 def steps(n):
     # Верни количество способов попасть на ступеньку n
     # return ans
+
 for i in range (0, n):
     print(steps(i))
 
@@ -45,6 +46,86 @@ for i in range (0, n):
 
 Следующая задача звучит следующим образом, есть шахматная доска где Вася стоит в левом верхнем углу, ему нужно дойти до правого нижнего угла, и он может ходить только вниз или направо. На каждой клетке стоит некоторое количество монет которое Вася подбирает если он находится клетке. Нужно сказать сколько максимальное количество монет которое Вася может заработать дойдя до правого нижнего угла. 
 
-# Code 
 
-# Code prototype  
+
+
+``` python  
+import random
+
+lst = []
+sum = []
+n = 5
+
+def max(a, b):
+    if (a < b):
+        return b
+    return a
+
+
+def maxCoins(lst, n):
+    # Нужно вернуть максимальное количество монет которые можно собрать дойдя до правого нижнего угла
+    # return ans;
+
+
+for i in range(n):
+    tmp = []
+    for j in range(n):
+        tmp.append(random.randint(1, 9))
+    lst.append(tmp)
+
+for i in range(n):
+    print(lst[i])
+
+print(maxCoins(lst, n), '\n')
+
+for i in range(n):
+    print(lst[i])
+
+
+
+```
+
+
+
+``` python  
+import random
+
+lst = []
+sum = []
+n = 5
+
+def max(a, b):
+    if (a < b):
+        return b
+    return a
+
+
+def maxCoins(lst, n):
+    for i in range(n):
+        for j in range(n):
+            if (i == 0 and j == 0):
+                lst[i][j] = lst[i][j] # Ничего не делай
+            elif (i == 0):
+                lst[i][j] = lst[i][j - 1] + lst[i][j]
+            elif (j == 0):
+                lst[i][j] = lst[i - 1][j] + lst[i][j]
+            else :
+                lst[i][j] = max(lst[i - 1][j], lst[i][j - 1]) + lst[i][j]
+    return lst[n - 1][n - 1]
+
+
+for i in range(n):
+    tmp = []
+    for j in range(n):
+        tmp.append(random.randint(1, 9))
+    lst.append(tmp)
+
+for i in range(n):
+    print(lst[i])
+
+print(maxCoins(lst, n), '\n')
+
+for i in range(n):
+    print(lst[i])
+
+```
