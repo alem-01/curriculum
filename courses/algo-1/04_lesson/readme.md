@@ -11,6 +11,40 @@
 1. Из всего списка ищем минимальный элемент и ставим его на начало списка.
 1. Перемещаем начало списка на один элемент правее предыдущего и возвращаемся к первому шагу.
 
-# Code template 
+# Prototype
+
+``` python
+lst = [6, 4, 5, 2, 1, 3]
+
+def selection_sort(lst):
+    # Нужно отсортировать список lst
+    
+
+selection_sort(lst, to_find)
+print(lst)
+
+```
 
 # Code  
+
+``` python  
+lst = [6, 4, 5, 2, 1, 3]
+
+def selection_sort(lst):
+    for i in range (0, len(lst)):
+        min = lst[i]
+        ind = i
+        for j in range (i + 1, len(lst)):
+            if (lst[j] < min):
+                min = lst[j]
+                ind = j
+        tmp = lst[i]
+        lst[i] = lst[ind]
+        lst[ind] = tmp
+
+
+selection_sort(lst)
+print(lst)
+
+
+```
