@@ -10,10 +10,8 @@
 Попробуй написать свою функцию линейного поиска, где тебе дается список из целых чисел, и тебе нужно сказать  
 есть ли это слово в списке или нет.
 
-### Попробуй написать функцию linear_search.
-
-<iframe height="400px" width="100%" src="https://repl.it/repls/ActiveAdorableGoal?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
+<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/TintedOffshoreLevels?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>  
 
 Если не получается, пытайся до тех пор, пока не получится.  
-В конце концов, можешь посмотреть <a href="https://repl.it/repls/OurFloweryCell" target="_blank">Решение</a>.  
+В конце концов, можешь посмотреть <a href="https://repl.it/@SakenMukanov/TintedOffshoreLevels" target="_blank">Решение</a>.  
+
