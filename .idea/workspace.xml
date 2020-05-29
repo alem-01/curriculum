@@ -21,9 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d9cc2fb4-6502-4abb-ad35-a24611e519f5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/js-intro/02_basic/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/courses/js-intro/02_basic/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/js-intro/03_types/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/courses/js-intro/03_types/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/js-intro/04_object/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/courses/js-intro/04_object/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/js-intro/05_array/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/courses/js-intro/05_array/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/js-intro/06_final/.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/js-intro/06_final/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/js-intro/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/courses/js-intro/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +72,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1533" y="491" width="424" height="491" key="FileChooserDialogImpl" timestamp="1590740955088">
+      <screen x="60" y="27" width="3380" height="1413" />
+    </state>
+    <state x="1533" y="491" width="424" height="491" key="FileChooserDialogImpl/60.27.3380.1413@60.27.3380.1413" timestamp="1590740955088" />
     <state x="1413" y="349" width="672" height="678" key="search.everywhere.popup" timestamp="1590659838991">
       <screen x="60" y="27" width="3380" height="1413" />
     </state>
