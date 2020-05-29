@@ -26,9 +26,44 @@
 1. Делим список [3, 4] на две части - [3] и [4]
 1. Средний элемент - 3, он равен искомому элементу, наша работа закончена.
 
-# Code prototype 
+
+# Prototype
+
+``` python
+lst = [1, 2, 3, 4, 5, 6]
+to_find = 3 # или 7
+def binary_search(lst, to_find):
+    # Если to_find есть в списке lst, нужно сделать print(to_find, "exists in the list")
+
+binary_search(lst, to_find)
+```
 
 Если не получается, пытайся до тех пор, пока не получится.  
 В конце концов, можешь посмотреть решение тут.
 
 # Code
+
+``` python
+lst = [1, 2, 3, 4, 5, 6]
+to_find = 1 # или 7
+def binary_search(lst, to_find):
+    left = 0
+    right = len(lst) - 1
+    while (left < right):
+        mid = (left + right) // 2
+        if (lst[mid] == to_find):
+            print(to_find, "exists in the list")
+            return
+        elif (lst[mid] > to_find):
+            right = mid - 1
+        elif (lst[mid] < to_find):
+            left = mid + 1
+    if (lst[left] == to_find):
+        print(to_find, "exists in the list")
+        return
+    else:
+        print(to_find, "does not exist in the list")
+    
+
+binary_search(lst, to_find)
+```

@@ -1,6 +1,6 @@
 # Линейный поиск  
 
-Линейный поиск - нахождение искоемого элемента в некотором списке.   
+Линейный поиск - нахождение искомого элемента в некотором списке.   
 Представь себе такую задачу - тебе нужно перевести слово "computer" на русский язык (я знаю, что ты знаешь перевод),  
 и единственный инструмент который у тебя есть, это плохой англо-русский словарь. Плох он тем, что  
 слова внутри словаря не отсортированы согласно алфавиту, они разбросаны хаотично. Теперь подумай, что  
@@ -10,9 +10,12 @@
 Попробуй написать свою функцию линейного поиска, где тебе дается список из целых чисел, и тебе нужно сказать  
 есть ли это слово в списке или нет.
 
-# Code prototype 
+### Попробуй написать функцию linear_search.
+
+<iframe height="400px" width="100%" src="https://repl.it/repls/ActiveAdorableGoal?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
 
 Если не получается, пытайся до тех пор, пока не получится.  
 В конце концов, можешь посмотреть решение тут.
 
-# Code
+<iframe height="400px" width="100%" src="https://repl.it/repls/OurFloweryCell?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
