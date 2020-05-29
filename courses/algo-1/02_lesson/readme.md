@@ -16,6 +16,4 @@
 
 
 Если не получается, пытайся до тех пор, пока не получится.  
-В конце концов, можешь посмотреть решение тут.
-
-<iframe height="400px" width="100%" src="https://repl.it/repls/OurFloweryCell?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+В конце концов, можешь посмотреть <a href="https://repl.it/repls/OurFloweryCell" target="_blank">Решение</a>.  
