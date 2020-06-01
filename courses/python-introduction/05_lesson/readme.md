@@ -2,30 +2,30 @@
 Во многих языках программирования есть циклы в том или ином виде. Циклы очень полезная и эффективная вещь, она и делает управление программами столь эффективными. Представь что Марку Цукербергу нужно отправить письмо с новогодними поздравления всем работникам facebook, и сколько бы у него времени заняло вручную отправлять эти письма, но с помощью циклов, это можно сделать за несколько строчек кода, и нескольких минут времени.  
 Все что циклы делают это повторяют одну и ту же операцию, но с модифицированными данными очень много раз, в случае с Цукербергом, он каждый раз изменяет имя, и почту сотрудника.
 Давай представим что перед тобой стоит не очень умная но трудоемкая работа - выписать квадраты первых 10 натуральных чисел. Наивным решением было бы:
-``python
-print(1)   
-print(4)   
-print(9)``и так далее до 100, но что будет если тебе нужно выписать 100 или 1000 чисел? К счастью циклы отлично помогают с этой задачей.
+
+<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/ActualForestgreenPixel?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+и так далее до 100, но что будет если тебе нужно выписать 100 или 1000 чисел? К счастью циклы отлично помогают с этой задачей.
 
 
 Попробуй запустить данный кусок кода в своем интерпретаторе:   
-``` python
-for i in range (1, 11):   
-    print(i * i)   
-```
+
+
+<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/ExpensiveProbableWireframes?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
 
 В данном коде мы используем цикл - for, и задаем ему изначальное значение - 1, и значение остановки цикла 11, т.е. когда переменная **i** достигнет значения 11 цикл остановится.    
 Внутри цикла он выполняет ```print(i * i)```, так как **i** итерируется от 1 до 11, мы выписываем квадраты натуральных чисел. Для того, чтобы увеличить чилсо с 10 до 100, достаточно поменть range цикла.
 
 
 Есть и другой вид итерации циклом for. Выглядит он следующим образом:   
-```python
-dict={ 1:100, 2:200, 3:300, "key": value }   
-for pair in dict.items():   
-    print (pair)   
-   ``` 
+
+<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/VapidAlienatedIdentifier?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+
+
 Данный цикл итерирует по словарю с помощью переменной pair, которая изначально равна первому элементу словаря, и итерирует до последнего элемента словаря.
-Данный метод работает не только на словарь, но и на листы, tuples, strings, подробнее можете посмотреть <a href="https://www.tutorialsteacher.com/python/python-for-loop" target="_blank">здесь.</a>
+Данный метод работает не только на словарь, но и на листы, tuples, strings, подробнее можете <a href="https://www.tutorialsteacher.com/python/python-for-loop" target="_blank">посмотреть здесь.</a>
 
 
 

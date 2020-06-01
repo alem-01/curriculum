@@ -12,14 +12,8 @@ print("Здравствуй,", name)
 
 Приведу пример как для нахождения гипотенузы в прямоуголном треугольнике зная 2 катета. Напоминаю, зная два катета, гипотинуза равна квадратному корню суммы квадратов катетов.   
 
-```python
-import math   
-def getHypotenuse(catet1, catet2):  
-    c = a * a + b * b   
-    return math.sqrt(c)   
-
-print(getHypotenuse(3, 4))  
-```
+<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/TubbyShabbyComputer?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+  
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DJAlfolEv9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
    
