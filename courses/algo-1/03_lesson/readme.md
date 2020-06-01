@@ -31,5 +31,6 @@
 
 
 Если не получается, пытайся до тех пор, пока не получится.  
+
 В конце концов, можешь посмотреть <a href="https://repl.it/@SakenMukanov/HoarseGoldenrodMetadata" target="_blank">Решение</a>.  
 

@@ -26,6 +26,7 @@ selection sort, но он такой же медленный. Более эфф�
 <iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/NavyFrenchRuntimeerror?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
-Если не получается, пытайся до тех пор, пока не получится.  
+Если не получается, пытайся до тех пор, пока не получится. 
+ 
 В конце концов, можешь посмотреть <a href="https://repl.it/@SakenMukanov/PresentFortunateCron" target="_blank">Решение</a>.  
 
