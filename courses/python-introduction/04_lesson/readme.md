@@ -3,16 +3,9 @@
 
 Следующее что важно узнать - условия (в оригинале if statements). Понятно, что та или иная операция происходит в зависимости от многих факторов, например банкомат выдаст тебе деньги если были соблюдены несколько условий: банкомат смог прочитать твою банковскую карту, ты ввел правильный ПИН код, у тебя есть сумма на счету, и так далее. Так как компьютер всего лишь исполняет то, что ты скажешь ему сделать, логично что в языках программирования есть условные инструкции. В Python они выглядят следующим образом:   
 
-```python
-a = 4
-if (a > 0):  
-    print('Число положительное')     
-elif (a < 0):   
-    print('Число отрицательное')     
-else:     
-    print('Число равно нулю')     
+<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/WhichAggressiveDatum?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-```
+
 Заметка - в языке Python нужно обязательно ставить табуляцию как в примере выше, табуляция ставится нажатием кнопки tab.    
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EggJRTzid1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
@@ -30,7 +23,7 @@ else:
 
 Таким образом можно делать комплексные условия.   
 
-Для большего понимания посмотри и попрактикуйся <a href="https://pythontutor.ru/lessons/ifelse/" target="_blank">здесь</a>.
+Для большего понимания посмотри и <a href="https://pythontutor.ru/lessons/ifelse/" target="_blank">попрактикуйся здесь</a>.
 
 # Задача для практики:
 Тебе нужно спросить у пользователя его возраст, и вывести на экран совершеннолетний ли он или нет.
