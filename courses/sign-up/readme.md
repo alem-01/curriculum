@@ -4,4 +4,4 @@
 
 Зарегистрируйся чтобы отслеживать свой прогресс.
 
-[Регистрация](https://github.com/login/oauth/authorize?client_id=1cfcb5e918fc33de54de&redirect_uri=https://learn.alem.school/api/auth/login)
+[Регистрация](https://github.com/login/oauth/authorize?client_id=1cfcb5e918fc33de54de&redirect_uri=http://127.0.0.1:8181/api/auth/login)
