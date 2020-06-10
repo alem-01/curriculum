@@ -14,12 +14,12 @@ print("Здравствуй,", name)
 
 <iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/TubbyShabbyComputer?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
   
-  
+### Видео-материал по функциям
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DJAlfolEv9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
    
 
 
-Материалы для изучения и практики находятся <a href="https://python-scripts.com/functions-python" target="_blank">здесь</a> и <a href="https://wombat.org.ua/AByteOfPython/functions.html" target="_blank">здесь</a>   
+### Материалы для изучения и практики находятся <a href="https://python-scripts.com/functions-python" target="_blank">здесь</a> и <a href="https://wombat.org.ua/AByteOfPython/functions.html" target="_blank">здесь</a>   
 
 
 # Библиотеки  
