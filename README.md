@@ -57,6 +57,8 @@ name: Алгоритмы реализации очереди CPU
 ```text
 # Алгоритмы реализации очереди CPU
 
+### Achievemnt
+
 https://www.guru99.com/cpu-scheduling-algorithms.html
 ```
 
