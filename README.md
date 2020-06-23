@@ -10,10 +10,10 @@
 ```
 |__ res [-1]
 |__ courses
-    `__ course_name [0]
+    |__ course_name [0]
         |-- .config [1]
         |-- readme.md [2]
-        `__ 1_lesson [3]
+        |__ 1_lesson [3]
             |__ readme.md
             |__ .config
 ```
