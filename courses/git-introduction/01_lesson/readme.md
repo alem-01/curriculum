@@ -49,5 +49,5 @@ git push origin master
 Сохраняет все твои изменения в git. В кратце эта операция называется пушить.   
  
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3RjQznt-8kE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/3RjQznt-8kE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
 

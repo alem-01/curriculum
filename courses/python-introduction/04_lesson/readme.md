@@ -8,7 +8,7 @@
 
 Заметка - в языке Python нужно обязательно ставить табуляцию как в примере выше, табуляция ставится нажатием кнопки tab.    
     
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EggJRTzid1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EggJRTzid1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
    
 
 В первый **if** передается **условие** которое проверяется на правдивость (например запрашиваемая сумма < суммы на банковском счету).  
