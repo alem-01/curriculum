@@ -34,7 +34,7 @@ print("Здравствуй,", name, "тебе", age, "лет")
 Тебе следует попрактиковаться с использованием функций **print** и **input**, попробуй написать программу которая будет спрашивать имя, возраст, и город из которого человек родом, и вывести на экран.    
 Тебя зовут **ИМЯ_ЧЕЛОВЕКА**, тебе **ВОЗРАСТ_ЧЕЛОВЕКА**, ты из города **ГОРОД_ЧЕЛОВЕКА**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yuyq2BrHMJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/yuyq2BrHMJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <a href="https://younglinux.info/python/input.php" target="_blank">Текстовый материал по print, input </a>  
