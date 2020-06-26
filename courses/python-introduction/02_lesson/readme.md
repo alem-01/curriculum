@@ -25,7 +25,7 @@
 
 
 **Обязательно посмотри видео по присвоению переменной других переменных.**   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_OZIAHg5i7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_OZIAHg5i7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <a href="https://www.tutorialsteacher.com/python/python-data-types" target="_blank">Полезная ссылка</a> по данной теме с иллюстрациями.

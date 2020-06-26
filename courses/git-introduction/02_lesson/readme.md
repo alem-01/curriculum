@@ -37,5 +37,5 @@ git checkout <hash>
 
 Поздравляю, теперь ты видишь свой старый код!🥳
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RIYrfkZjWmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/RIYrfkZjWmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
