@@ -7,7 +7,7 @@ XXI век это век технологии, и знание программ�
 Прежде чем ты начнешь изучать программирование, важно узнать зачем все же оно нужно,
 и к нашему счастью есть классное краткое видео, рекомендуется посмотреть всем.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dv7gLpW91DM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Dv7gLpW91DM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <a href="https://www.youtube.com/watch?v=5Jc9V0_zkIQ" target="_blank">На русском языке</a>  
@@ -22,12 +22,12 @@ Python это высокоуровневый язык программирова
 на освоение. Зная Python на должном уровне, ты сможешь очень быстро перестроиться на другой язык если этого потребует задача, но
 изучать Python с нуля будет гораздо легче чем большинство других языков.  
 ### Небольшое интервью от разработчика Яндекс про Python.    
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6I7ybevPUKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/6I7ybevPUKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Также, небольшое видео для англоязычной аудитории - Why learn Python    
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zNHHBdyMm14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/zNHHBdyMm14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

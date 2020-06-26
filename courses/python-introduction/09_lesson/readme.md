@@ -15,7 +15,3 @@
 ## Пример использованию списка
 
 <iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/SecondaryCoolLamp?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
-
-- tuple (кортеж) - структура данных похажая на списки, единственное серьезное отличия, кортежи immutable. Как и в строках, в кортежах запрещено изменять отдельные элементы кортежа. Из этого вытекает раница в функциях, <a href="https://www.programiz.com/python-programming/tuple" target="_blank">очень подробные примеры использования.</a> 
-
