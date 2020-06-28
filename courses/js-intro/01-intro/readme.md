@@ -29,6 +29,11 @@ console.log("Hello World!");
 
 <iframe height="400px" width="100%" src="https://repl.it/repls/DoubleHighlevelBootstrapping?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
+
+# Для завершения урока, выполните задания
+[Начать](https://classroom.github.com/a/eqE6zgUJ)
+
+
 [о JS](https://learn.javascript.ru/intro)
 [node](https://nodejs.dev/)
 [babel](https://babeljs.io/)
