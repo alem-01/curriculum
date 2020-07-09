@@ -144,8 +144,24 @@ const change = (N, C, K, L) => {
 
 change(5, 5, 6, 5) // '$1.0'
 change(2, 17, 2, 18) // '$0.1'
-
 ```
+___
+
+9. **Count char**
+
+Create a function `countChar` that counts `char` in `str`. If second argument is not given 
+then count for `C`.
+
+```js
+const countChar = (str, char) => {
+    // your code here
+}
+
+countChar('Im gonna go, go, go', 'o') // 4
+countChar('Crown for King') // 1
+```
+
+> [default value](https://stackoverflow.com/a/894877)
 ___
 
 ### Ссылки
