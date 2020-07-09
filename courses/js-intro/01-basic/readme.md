@@ -182,6 +182,8 @@ const fizzbuzz = (N) => {
     // your code here
 }
 ```
+
+> use `===` for strict comparison.
 ___
 
 11. **Count char**
