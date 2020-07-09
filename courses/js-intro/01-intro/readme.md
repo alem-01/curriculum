@@ -1,7 +1,5 @@
 ## Введение
 
-> Variables, Types, If/Else, Functions
-
 Добро пожаловать в экспресс курс по JS!
 
 
@@ -26,6 +24,8 @@ ___
 
 <iframe height="400px" width="100%" src="https://repl.it/repls/DoubleHighlevelBootstrapping?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
+> Variables, Types, If/Else, Functions
+
 ## Задания
 
 1. **Variables and Types**
@@ -37,6 +37,7 @@ Create constant variables with different types:
 - `bool` contains `Boolean` value
 - `undef` contains `undefined` value
 - `null` contains `null` value
+___
 
 2. **Square Function**
 
@@ -49,6 +50,7 @@ const square = (n) => {
 
 square(3) // 9
 ```
+___
 
 3. **Hello, ${name}**
 
@@ -62,6 +64,9 @@ const hello = (name) => {
 hello('world') // `Hello, world!`
 hello('Martin') // `Hello, Martin!`
 ```
+
+> [interpolation](https://flaviocopes.com/javascript-template-literals/#interpolation)
+___
 
 4. **Concat Strings**
 
@@ -78,6 +83,7 @@ const concat = (strings) => {
 
 concat(['Hello ', 'World!']) // 'Hello World!'
 ```
+___
 
 5. **What Type?**
 
@@ -94,6 +100,9 @@ getType('hello') // string
 getType({a: 1, b: 2}) // object
 ```
 
+> [typeof](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/typeof)
+___
+
 6. **Max**
 
 Create function `max` that takes 2 arguments and returns maximum of them.
@@ -106,6 +115,9 @@ const max = (a, b) => {
 max(3, 100) // 100
 ```
 
+> [if...else](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Statements/if...else)
+___
+
 7. **Max of 3**
 
 Create function `max3` that takes 3 arguments and returns maximum of them.
@@ -117,6 +129,7 @@ const max3 = (a, b, c) => {
 
 max(300, 100, 5) // 300
 ```
+___
 
 8. **Change**
 
