@@ -122,6 +122,20 @@ console.log(object2.value) // → 15
 console.log(object3.value) // → 10
 ```
 
+4. **Advanced max**
+
+Implement function `advancedMax` that accepts any number of parameters and returns the biggest value.
+
+```js
+const advancedMax = (...numbers) => {
+    // your code here
+}
+
+advancedMax(1) // → 1
+advancedMax(5, 3, 10) // → 10
+```
+
+> [Rest Parameters](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Functions/Rest_parameters)
 
 ### Ссылки
 
