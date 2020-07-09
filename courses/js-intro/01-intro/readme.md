@@ -1,4 +1,7 @@
 ## Введение
+
+> Variables, Types, If/Else, Functions
+
 Добро пожаловать в экспресс курс по JS!
 
 
@@ -17,18 +20,7 @@ JS динамично развивающийся язык программиро
 
 JS встроен в браузер и можно легко запустить код открыв `Developer Tools` (можете загуглить)
 Также, существует движок [node](https://nodejs.org) который умеет выполнять код JS.
-
-
-Напишем простую программу, которая поприветствует человека, запустившего его.
-
-```js
-console.log("Hello World!");
-```
-
-Про консоль
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/L8CDt1J3DAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-____
+___
 
 Песочница
 
@@ -36,7 +28,7 @@ ____
 
 ## Задания
 
-1. Variables and Types
+1. **Variables and Types**
 
 Create constant variables with different types:
 - `number` contains `Number` value
@@ -46,7 +38,7 @@ Create constant variables with different types:
 - `undef` contains `undefined` value
 - `null` contains `null` value
 
-2. Square Function
+2. **Square Function**
 
 Create function `square` that returns square value of passed `Number`.
 
@@ -58,7 +50,7 @@ const square = (n) => {
 square(3) // 9
 ```
 
-3. Hello, ${name}
+3. **Hello, ${name}**
 
 Create function `hello` with parameter `name`.
 
@@ -71,7 +63,7 @@ hello('world') // `Hello, world!`
 hello('Martin') // `Hello, Martin!`
 ```
 
-4. Concat Strings
+4. **Concat Strings**
 
 Create function `concat`.
 
@@ -87,7 +79,7 @@ const concat = (strings) => {
 concat(['Hello ', 'World!']) // 'Hello World!'
 ```
 
-5. What Type?
+5. **What Type?**
 
 Create function `getType` that returns type of passed value.
 
@@ -102,7 +94,7 @@ getType('hello') // string
 getType({a: 1, b: 2}) // object
 ```
 
-6. Max
+6. **Max**
 
 Create function `max` that takes 2 arguments and returns maximum of them.
 
@@ -113,10 +105,37 @@ const max = (a, b) => {
 
 max(3, 100) // 100
 ```
+
+7. **Max of 3**
+
+Create function `max3` that takes 3 arguments and returns maximum of them.
+
+```js
+const max3 = (a, b, c) => {
+    // your code here
+}
+
+max(300, 100, 5) // 300
+```
+
+8. **Change**
+
+An item costs `N` dollars and `C` cents. You bought it for `K` dollars and `L` cents.
+
+Create function `change` that takes 4 arguments and returns a string - the money you get.
+
+```js
+const change = (N, C, K, L) => {
+    // your code here
+}
+
+change(5, 5, 6, 5) // '$1.0'
+change(2, 17, 2, 18) // '$0.1'
+
+```
 ___
 
 ### Ссылки
 
 - [о JS](https://learn.javascript.ru/intro)
 - [node](https://nodejs.dev/)
-
