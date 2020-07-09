@@ -147,7 +147,44 @@ change(2, 17, 2, 18) // '$0.1'
 ```
 ___
 
-9. **Count char**
+9. **Triangle**
+
+Create a function `triangle` that returns the following triangle as string with height 7:
+```
+#
+##
+###
+####
+#####
+######
+#######
+```
+
+> Last line must have a new line.
+
+```js
+const triangle = (height) => {
+    // your code here
+}
+```
+
+> [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+___
+
+10. **FizzBuzz**
+
+Create a function `fizzbuzz` that uses console.log to print the numbers from 1 to `N`, with two exceptions. 
+- For numbers divisible by 3, print `Fizz` instead of the number
+- For numbers divisible by 5 (and not 3), print `Buzz` instead.
+
+```js
+const fizzbuzz = (N) => {
+    // your code here
+}
+```
+___
+
+11. **Count char**
 
 Create a function `countChar` that counts `char` in `str`. If second argument is not given 
 then count for `C`.
