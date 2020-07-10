@@ -36,7 +36,7 @@ Create constant variables with different types:
 - `str` contains `String` value
 - `bool` contains `Boolean` value
 - `undef` contains `undefined` value
-- `null` contains `null` value
+- `nullVar` contains `null` value
 ___
 
 2. **Square Function**
@@ -94,10 +94,10 @@ const getType = (value) => {
     // your code here
 }
 
-getType(1) // number
-getType(['Hello ', 'World!']) // array
-getType('hello') // string
-getType({a: 1, b: 2}) // object
+getType(1) // 'number'
+getType(['Hello ', 'World!']) // 'array'
+getType('hello') // 'string'
+getType({a: 1, b: 2}) // 'object'
 ```
 
 > [typeof](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/typeof)
@@ -144,6 +144,7 @@ const change = (N, C, K, L) => {
 
 change(5, 5, 6, 5) // '$1.0'
 change(2, 17, 2, 18) // '$0.1'
+change(2, 17, 2, 16) // 'not enough'
 ```
 ___
 
