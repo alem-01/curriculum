@@ -221,3 +221,8 @@ const deepEqual = (obj1, obj2) => {
 ```
 
 > use _Object.keys_
+___
+
+## Links
+
+- [Arrays and Objects](https://eloquentjavascript.net/04_data.html)

@@ -207,5 +207,5 @@ ___
 
 ### Ссылки
 
-- [о JS](https://learn.javascript.ru/intro)
-- [node](https://nodejs.dev/)
+- [Values](https://eloquentjavascript.net/01_values.html)
+- [Functions](https://eloquentjavascript.net/03_functions.html)
