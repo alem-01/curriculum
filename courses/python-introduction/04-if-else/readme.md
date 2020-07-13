@@ -28,7 +28,7 @@
 
 **Для успешной сдачи данного урока, напиши код:**
 
-- <a href="https://github.com/alem-classroom/student-python-introduction-{GITHUB_LOGIN}/blob/master/if-else/conditional.py" class="repo-button">If-else</a>   
+- <a href="https://github.com/alem-classroom/student-python-introduction-{GITHUB_LOGIN}/blob/master/if-else" class="repo-button">If-else</a>   
 
 
 Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/c9J3nA9U">Github classroom</a>   
