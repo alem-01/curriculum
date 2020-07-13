@@ -45,7 +45,7 @@ Python является слабо типированным языком про�
 
 - <a href="https://github.com/alem-classroom/student-python-introduction-${GITHUB_LOGIN}/blob/master/variables-and-types/calculator.py" class="repo-button">Калькулятора</a>   
 
-- <a href="https://github.com/alem-classroom/student-python-introduction-sakenism/blob/master/variables-and-types/strings.py" class="repo-button">Управления строками</a>   
+- <a href="https://github.com/alem-classroom/student-python-introduction-{GITHUB_LOGIN}/blob/master/variables-and-types/strings.py" class="repo-button">Управления строками</a>   
 
 
-Если Github возврщает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/c9J3nA9U">Github classroom</a>   
+Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/c9J3nA9U">Github classroom</a>   
