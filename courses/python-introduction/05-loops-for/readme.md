@@ -31,7 +31,7 @@
 
 **Для успешной сдачи данного урока, напиши код:**
 
-- <a href="https://github.com/alem-classroom/student-python-introduction-sakenism/blob/master/loops-for/arrayLoop.py" class="repo-button">Цикл в списке</a>   
+- <a href="https://github.com/alem-classroom/student-python-introduction-{GITHUB_LOGIN}/blob/master/loops-for/arrayLoop.py" class="repo-button">Цикл в списке</a>   
 
 
 - <a href="https://github.com/alem-classroom/student-python-introduction-{GITHUB_LOGIN}/blob/master/loops-for/forDict.py" class="repo-button">Цикл в словаре</a>   
