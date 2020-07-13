@@ -25,15 +25,11 @@
 
 Для большего понимания посмотри и <a href="https://pythontutor.ru/lessons/ifelse/" target="_blank">попрактикуйся здесь</a>.
 
-# Задача для практики:
-Тебе нужно спросить у пользователя его возраст, и вывести на экран совершеннолетний ли он или нет.
-Пример:
-"Привет, сколько тебе лет?"    
-"17"   
-"Тебе еще нет 18"   
 
-"Привет, сколько тебе лет?"    
-"19"   
-"Ты совершеннолетний"  
+**Для успешной сдачи данного урока, напиши код:**
 
+- <a href="https://github.com/alem-classroom/student-python-introduction-{GITHUB_LOGIN}/blob/master/if-else" class="repo-button">If-else</a>   
+
+
+Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/c9J3nA9U">Github classroom</a>   
 

@@ -31,11 +31,14 @@ print("Здравствуй,", name, "тебе", age, "лет")
 Также, можешь заметить что переменная **name** хранит в себе имя человека, эту информацию мы позже используем для того, что поздароваться с человеком. Поговорим про переменные и их типы на следующих уроках.   
 Переменная **age** хранит в себе возраст человека, стоит заметить, что в отличии от **name**, **age** должен быть числом, а не строкой, поэтому перед **input()** необходимо поставить **int()**, данная функция превращает строку в число.
 
-Тебе следует попрактиковаться с использованием функций **print** и **input**, попробуй написать программу которая будет спрашивать имя, возраст, и город из которого человек родом, и вывести на экран.    
-Тебя зовут **ИМЯ_ЧЕЛОВЕКА**, тебе **ВОЗРАСТ_ЧЕЛОВЕКА**, ты из города **ГОРОД_ЧЕЛОВЕКА**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yuyq2BrHMJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/yuyq2BrHMJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <a href="https://younglinux.info/python/input.php" target="_blank">Текстовый материал по print, input </a>  
 
+**Для успешной сдачи данного урока, напиши код:**
+
+- <a href="https://github.com/alem-classroom/student-python-introduction-{GITHUB_LOGIN}/blob/master/input-output" class="repo-button">Hello World!</a>   
+
+
+Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/c9J3nA9U">Github classroom</a>   
