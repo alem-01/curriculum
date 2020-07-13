@@ -17,3 +17,11 @@
 <a href="https://www.programiz.com/python-programming/set" target="_blank">Очень подробные примеры использования множества.</a>   
 
 
+**Для успешной сдачи данного урока, напиши код:** 
+
+- <a href="https://github.com/alem-classroom/student-python-introduction-sakenism/blob/master/sets/sets.py" class="repo-button">Управление списками</a>   
+
+Если Github возврщает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/c9J3nA9U">Github classroom</a>   
+
+
+

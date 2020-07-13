@@ -15,3 +15,9 @@
 
 <a href="https://www.programiz.com/python-programming/dictionary" target="_blank">Очень подробные примеры использования словарей.</a>   
 
+
+**Для успешной сдачи данного урока, напиши код:** 
+
+- <a href="https://github.com/alem-classroom/student-python-introduction-sakenism/blob/master/dict/dicts.py">Управление словарем</a>   
+
+Если Github возврщает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/c9J3nA9U">Github classroom</a>   
