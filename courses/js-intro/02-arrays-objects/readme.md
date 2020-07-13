@@ -165,14 +165,14 @@ const list = {
         value: 2,
         next: {
             value: 3,
-            next: null
+            next: {}
         }
     }
 }
 
 __________   __________   __________
 |value: 1|   |value: 2|   |value: 3|
-|next:------>|next:------>|next:-------> null
+|next:------>|next:------>|next:-------> {}
 |________|   |________|   |________|
 ```
 
@@ -200,7 +200,7 @@ const list = {
         value: 2,
         next: {
             value: 3,
-            next: null
+            next: {}
         }
     }
 }

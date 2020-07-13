@@ -174,9 +174,10 @@ ___
 
 10. **FizzBuzz**
 
-Create a function `fizzbuzz` that uses console.log to print the numbers from 1 to `N`, with two exceptions. 
-- For numbers divisible by 3, print `Fizz` instead of the number
-- For numbers divisible by 5 (and not 3), print `Buzz` instead.
+Create a function `fizzbuzz` that returns an array.
+It should push the numbers from 1 to `N`, with two exceptions. 
+- For numbers divisible by 3, push `Fizz` instead of the number
+- For numbers divisible by 5 (and not 3), push `Buzz` instead.
 
 ```js
 const fizzbuzz = (N) => {
