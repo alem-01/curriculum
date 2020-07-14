@@ -68,6 +68,40 @@ const NoE = // your code here
 CarCat.test('black cat') // true
 CarCat.test('Camping') // false
 ```
+___
+
+2. **Quoting**
+
+Imagine you have written a story and used single quotation marks `'` to mark pieces of dialogue. 
+Now you want to replace all the dialogue quotes with double quotes `"`, while keeping the single quotes used in contractions like `aren't`.
+
+Create a function `quoting` that replaces all matching patterns `'` to double quotes `"`.
+
+```js
+const quoting = (text) => {
+    // your code here
+}
+
+const text = "'I'm the cook,' he said, 'it's my job.'"
+quoting(text) // "I'm the cook," he said, "it's my job."
+```
+___
+
+3. **Numbers**
+
+Create a function `validJSNumber` that returns true if passed string is a valid JS Number.
+
+It must support an optional _minus_ or _plus_ sign in front of the number, the _decimal dot_, and exponent notation _5e-3_ or _1E10_ — again with an optional sign in front of the exponent. The number cannot be a dot alone - `.5`, `5.` are invalid.
+
+```js
+const validJSNumber = (str) => {
+    // your code here
+}
+
+validJSNumber('5') // true
+validJSNumber('654.') // false
+validJSNumber('2E-7') // true
+```
 
 ## Links
 
