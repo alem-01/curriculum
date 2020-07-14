@@ -13,7 +13,7 @@
 
 **Для успешной сдачи данного урока, напиши код:** 
 
-- <a href="https://github.com/alem-classroom/student-python-introduction-{GITHUB_LOGIN}/blob/master/loops-while" class="repo-button">Цикл в списке</a>   
+- <a href="https://github.com/alem-classroom/student-python-introduction-${GITHUB_LOGIN}/blob/master/loops-while" class="repo-button">Цикл в списке</a>   
 
 Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/c9J3nA9U">Github classroom</a>   
 
