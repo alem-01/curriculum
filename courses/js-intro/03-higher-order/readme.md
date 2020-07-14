@@ -90,7 +90,7 @@ Each iteration, it first runs the `test` function on the current loop `value` an
 Then it calls the `body` function, passing the current value. Finally, it calls the `update` function to create a new value and starts from the beginning.
 
 ```js
-const loop = (init, testFunc, updateFunc, bodyFund) => {
+const loop = (init, testFunc, updateFunc, bodyFunc) => {
     // your code here
 }
 
