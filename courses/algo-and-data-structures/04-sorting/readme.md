@@ -14,9 +14,9 @@
 
 <iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/ZestyMiserableJavabeans?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
+**Для успешной сдачи данного урока, напиши код:**
 
-Если не получается, пытайся до тех пор, пока не получится.  
-
-В конце концов, можешь посмотреть <a href="https://repl.it/@SakenMukanov/ScrawnySpecializedDisk" target="_blank">Решение</a>.  
+- <a href="https://github.com/alem-classroom/student-algo-1-${GITHUB_LOGIN}/blob/master/sorting" class="repo-button">Сортировки</a>   
 
 
+Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/QaSKclaO">Github classroom</a>   
