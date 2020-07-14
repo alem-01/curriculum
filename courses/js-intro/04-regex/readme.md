@@ -102,6 +102,7 @@ validJSNumber('5') // true
 validJSNumber('654.') // false
 validJSNumber('2E-7') // true
 ```
+___
 
 ## Links
 
