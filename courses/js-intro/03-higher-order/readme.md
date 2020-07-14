@@ -41,6 +41,7 @@ const map = (array, func) => {
 map([1, 2, 3, 4], (elem) => elem * 2) // [2, 4, 6, 8]
 map(['John', 'Martin'], (name) => `Hello, ${name}`) // ['Hello, John', 'Hello, Martin']
 ```
+___
 
 2. **Greater Than**
 
@@ -57,9 +58,23 @@ const greater = greaterThan(10)
 greater(5) // false
 greater(12) // true
 ```
+___
 
 3. **Flattening**
 
+Write function `flatten` that uses `reduce` method in combination with the `concat` method 
+to _flatten_ an array of arrays into a single array that has all the elements of the original arrays.
+
+```js
+const flatten = (array) => {
+    // your code here with .reduce
+}
+
+const arrays = [[1, 2, 3], [4, 5], [6]]
+flatten(arrays) // [1, 2, 3, 4, 5, 6]
+```
+
+> Use [.reduce](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 
 ___
 
