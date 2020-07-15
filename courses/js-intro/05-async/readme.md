@@ -69,7 +69,7 @@ Promise function can't call multiple times `resolve` and `reject`. Only first fu
 
 1. **Delay**
 
-Create a function `delay` that returns a promises that resolves after N seconds.
+Create a function `delay` that returns a promise that resolves after `N` seconds.
 
 ```js
 const delay = (N) => {
@@ -80,6 +80,7 @@ delay(5).then(() => console.log('Resolved after 5 seconds!'))
 ```
 
 > use [setTimeout](https://developer.mozilla.org/ru/docs/Web/API/WindowTimers/setTimeout)
+___
 
 2. **Fetch Data**
 
@@ -95,3 +96,35 @@ fetchData('https://google.com') // (Google body)...
 ```
 
 > use [fetch](https://developer.mozilla.org/ru/docs/Web/API/Fetch_API/Using_Fetch)
+___
+
+3. **All**
+
+Create a function `all` that implements `Promise.all`.
+
+```js
+const all = (promises) => {
+	// your code here
+}
+```
+
+> [Promise.all](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise/all)
+
+___
+
+4. **Race**
+
+Create a function `race` that implements `Promise.race`.
+
+```js
+const race = (promises) => {
+	// your code here
+}
+```
+
+> [Promise.race](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise/race)
+
+## Links
+
+1. [Async](https://eloquentjavascript.net/11_async.html)
+2. [Promise Chaining](https://javascript.info/promise-chaining)
