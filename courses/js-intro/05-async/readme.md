@@ -80,3 +80,18 @@ delay(5).then(() => console.log('Resolved after 5 seconds!'))
 ```
 
 > use [setTimeout](https://developer.mozilla.org/ru/docs/Web/API/WindowTimers/setTimeout)
+
+2. **Fetch Data**
+
+Create function `fetchData` that returns `.text` method result from `fetch`. If error is caught, return `error`.
+
+```js
+const fetchData = (url) => {
+	// your code here
+}
+
+fetchData('http://there-is-no-such-site-should-be-error.lol') // error
+fetchData('https://google.com') // (Google body)...
+```
+
+> use [fetch](https://developer.mozilla.org/ru/docs/Web/API/Fetch_API/Using_Fetch)
