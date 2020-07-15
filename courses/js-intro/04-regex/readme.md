@@ -91,7 +91,7 @@ ___
 
 Create a function `validJSNumber` that returns true if passed string is a valid JS Number.
 
-It must support an optional _minus_ or _plus_ sign in front of the number, the _decimal dot_, and exponent notation _5e-3_ or _1E10_ — again with an optional sign in front of the exponent. The number cannot be a dot alone - `.5`, `5.` are invalid.
+It must support an optional _minus_ or _plus_ sign in front of the number, the _decimal dot_, and exponent notation _5e-3_ or _1E10_ — again with an optional sign in front of the exponent. The numbers `.5`, `5.` are valid.
 
 ```js
 const validJSNumber = (str) => {
