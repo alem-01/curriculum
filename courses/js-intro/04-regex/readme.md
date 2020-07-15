@@ -99,7 +99,7 @@ const validJSNumber = (str) => {
 }
 
 validJSNumber('5') // true
-validJSNumber('654.') // false
+validJSNumber('654.') // true
 validJSNumber('2E-7') // true
 ```
 ___
