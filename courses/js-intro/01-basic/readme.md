@@ -1,40 +1,16 @@
 ## Basic
 
-Welcome to the JS Express Course!
-
-
-JS is a dynamically developing programming language. It is used to develop 
-web and mobile applications.
-
-## Синтаксис
-
-The syntax of the programming language is quite intuitive, our arsenal includes 
-basic types and many built-in features to work with them. There are many 
-debuggers, programs that let you find errors.
-
-## Разработка
-
-You can use `repl.it` editor for development. 
-
-JS is built into your browser and you can easily run the code by opening `Developer Tools` (you can google it).
-There is also an engine [node] (https://nodejs.org) that can execute JS code.
-___
-
 Sandbox
 
 <iframe height="400px" width="100%" src="https://repl.it/repls/DoubleHighlevelBootstrapping?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 > Variables, Types, If/Else, Functions
 
-You have to accept the invitation to assignment before starting to do the exercises.
-
-[Github Classroom Assignment](https://classroom.github.com/a/-CBU1cj6)
-
 To successfully submit the exercise push your code to your repo.
 
 <a href="https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/basic" class="repo-button">Basic Exercise</a>
 
-## Задания
+## Exercise
 
 1. **Variables and Types**
 
