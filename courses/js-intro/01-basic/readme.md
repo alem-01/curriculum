@@ -1,26 +1,26 @@
 ## Basic
 
-Добро пожаловать в экспресс курс по JS!
+Welcome to the JS Express Course!
 
 
-JS динамично развивающийся язык программирования. С помощью него разрабатывают 
-веб и мобильные приложений.
+JS is a dynamically developing programming language. It is used to develop 
+web and mobile applications.
 
 ## Синтаксис
 
-Синтаксис языка программирования достаточно интуитивен, в нашем арсенале есть 
-основные типы и множество встроенных функций для работы с ними. Имеется множество 
-отладчиков, программ, которые позволяют найти ошибки.
+The syntax of the programming language is quite intuitive, our arsenal includes 
+basic types and many built-in features to work with them. There are many 
+debuggers, programs that let you find errors.
 
 ## Разработка
 
-Для разработки мы будем использовать редактор `repl.it`. 
+You can use `repl.it` editor for development. 
 
-JS встроен в браузер и можно легко запустить код открыв `Developer Tools` (можете загуглить)
-Также, существует движок [node](https://nodejs.org) который умеет выполнять код JS.
+JS is built into your browser and you can easily run the code by opening `Developer Tools` (you can google it).
+There is also an engine [node] (https://nodejs.org) that can execute JS code.
 ___
 
-Песочница
+Sandbox
 
 <iframe height="400px" width="100%" src="https://repl.it/repls/DoubleHighlevelBootstrapping?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
