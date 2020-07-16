@@ -26,6 +26,14 @@ ___
 
 > Variables, Types, If/Else, Functions
 
+You have to accept the invitation to assignment before starting to do the exercises.
+
+[Github Classroom Assignment](https://classroom.github.com/a/-CBU1cj6)
+
+To successfully submit the exercise push your code to your repo.
+
+<a href="https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/basic" class="repo-button">Basic Exercise</a>
+
 ## Задания
 
 1. **Variables and Types**

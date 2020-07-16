@@ -42,6 +42,8 @@ ___
 
 ```
 
+<a href="https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/regex" class="repo-button">Regex Exercise</a>
+
 ## Exercises
 
 1. **Warming up**

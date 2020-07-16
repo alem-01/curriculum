@@ -49,6 +49,8 @@ console.log(
 
 > Arrays, Objects
 
+<a href="https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/arrays-objects" class="repo-button">Arrays and Objects Exercise</a>
+
 ## Задания
 
 1. **Delete a**

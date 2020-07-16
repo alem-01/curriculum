@@ -65,6 +65,8 @@ let fifteen = new Promise(function(resolve, reject) {
 
 Promise function can't call multiple times `resolve` and `reject`. Only first function call is executed, any further are ignored.
 
+<a href="https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/async" class="repo-button">Async Exercise</a>
+
 ## Exercises
 
 1. **Delay**
