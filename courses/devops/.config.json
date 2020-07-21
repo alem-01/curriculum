@@ -1,0 +1,14 @@
+{
+    "name": "devops",
+    "title": "DevOps",
+    "prev": ["internet"],
+    "x": 100,
+    "y": 500,
+    "achievement": {
+        "name": "devops",
+        "title": "DevOps ruler",
+        "description": "description",
+        "key": "69e1fdf3-c111-11ea-8918-c4b301d6ec23",
+        "icon": "https://cdn3.iconfinder.com/data/icons/halloween-128-colored-outline/128/Devil_Hell_Satan_evil_Demon-512.png"
+    }
+}

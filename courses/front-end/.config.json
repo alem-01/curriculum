@@ -1,0 +1,14 @@
+{
+    "name": "front-end",
+    "title": "FrontEnd",
+    "prev": ["html-css-js"],
+    "x": -200,
+    "y": 600,
+    "achievement": {
+        "name": "front-end",
+        "title": "FrontEnd magician",
+        "description": "description",
+        "key": "766e11b5-c111-11ea-b6a4-c4b301d6ec23",
+        "icon": "https://cdn3.iconfinder.com/data/icons/halloween-128-colored-outline/128/Devil_Hell_Satan_evil_Demon-512.png"
+    }
+}

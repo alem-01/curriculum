@@ -12,27 +12,49 @@
 ```
 |__ courses
     |__ course-name [0]
-        |-- .config [1]
+        |-- .config.json [1]
         |-- readme.md [2]
-        |-- .achievement [3]
-        |__ 1-lesson [4]
+        |__ 1-lesson [3]
             |__ readme.md
-            |__ .config
+            |__ .config.json
 ```
 
 ### [0] course-name
-Название курса на английском, хранит в себе директории с уроками и файлы .config, readme.md
+Название курса на английском, хранит в себе директории с уроками и файлы .config.json, readme.md
 
-### [1] .config
+### [1] .config.json
 Файл содержит информацию о курсе
-```text
-name: shell-intro
-title: Основы shell
-prev: none
+```json
+{
+    "name": "sign-up",
+    "title": "Регистрация",
+    "prev": ["none"],
+    "x": 0,
+    "y": 0,
+    "achievement": {
+        "name": "sign-up",
+        "title": "let`s go",
+        "description": "description",
+        "key": "6",
+        "icon": "https://cdn3.iconfinder.com/data/icons/halloween-128-colored-outline/128/Devil_Hell_Satan_evil_Demon-512.png"
+    }
+}
 ```
-> name: должен иметь значение имени директории <br>
-> title: название на русском, которое будет выводится на платформе <br>
-> prev: name пререквизита
+> *name*: должен иметь значение имени директории <br>
+> *title*: название на русском, которое будет выводится на платформе <br>
+> *prev*: name пререквизита <br>
+> *x, y*: координаты на графе <br>
+> *achievement*: будет получено пользователем после завершения курса <br>
+>> *name*: название достижения на английском <br>
+>> *title*: название на руссоком, которое будет отображаться на платформе <br>
+>> *description*: описание достижение <br>
+>> *key*: уникально значение <br>
+>> *icon*: ссылка на иконку
+
+*Код для генерации ключа*
+```bash
+python  -c 'import uuid; print(uuid.uuid1())'
+```
 
 ### [2] readme.md
 Файл содержит описание курса. Конвенция по написанию описания курса:
@@ -42,36 +64,17 @@ prev: none
 Длинное или короткое описание. Файл должен начинаться с "# Название файла", далее пустая новая линия и на след линии следует описание курса. После описания курса может следовать что угодно.
 ```
 
-### [3] .achievement
-Файл содержит в себе информацию о достижении, которое получит студент после завершения курса.
-```text
-name: algo-1
-title: title
-description: description
-key: 1
-icon: https://cdn3.iconfinder.com/data/icons/halloween-128-colored-outline/128/Devil_Hell_Satan_evil_Demon-512.png
-```
-
-> name: название достижения на английском <br>
-> title: название на руссоком, которое будет отображаться на платформе <br>
-> description: описание достижение <br>
-> key: уникально значение <br>
-> icon: ссылка на иконку
-
-*Код для генерации ключа*
-```bash
-python  -c 'import uuid; print(uuid.uuid1())'
-```
-
-### [4] n-lesson
+### [3] n-lesson
 Название директории урока начинается с **n_**, где n - это номер урока. <br>
-Директория содержит файл .config [4] c названием урока на русском и файлом readme.md <br>
+Директория содержит файл .config.json c названием урока на русском и файлом readme.md <br>
 содержащий контент урока.
 
-> пример 1-lesson/.config
-```text
-name: Алгоритмы реализации очереди CPU
-type: article
+> пример 1-lesson/.config.json
+```json
+{
+    "title": "Списки и кортежи",
+    "type": "project"
+}
 ``` 
 
 > name: название урока <br>

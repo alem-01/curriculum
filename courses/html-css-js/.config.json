@@ -1,0 +1,14 @@
+{
+    "name": "html-css-js",
+    "title": "HTML CSS JS",
+    "prev": ["internet"],
+    "x": -100,
+    "y": 500,
+    "achievement": {
+        "name": "HTML, CSS, JS",
+        "title": "HTML programmer, LMAO",
+        "description": "description",
+        "key": "b8eb8280-c10f-11ea-9512-c4b301d6e666",
+        "icon": "https://cdn3.iconfinder.com/data/icons/halloween-128-colored-outline/128/Devil_Hell_Satan_evil_Demon-512.png"
+    }
+}
