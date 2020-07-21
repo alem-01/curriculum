@@ -44,3 +44,11 @@ Write script that _shows_ all containers, including _exited_ ones.
 5. **Terminator**
 
 Write script that _removes_ `nginx` container.
+
+6. **Images**
+
+Write script that _lists_ all images.
+
+7. **Bye, nginx**
+
+Write script that _removes_ `nginx` image.
