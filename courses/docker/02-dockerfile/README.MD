@@ -20,6 +20,7 @@ Dockerfile must have following:
 - set workdir to `/app`
 - install dependencies
 - set env variable `PORT=3000`
+- set env variable `APP_TYPE=Python`
 - entry point that runs the application
 
 Create following scripts in root directory:
@@ -41,7 +42,7 @@ Dockerfile must have following:
 
 Create following scripts in root directory:
 - `script-build.sh` - builds docker image with tag `node-project:1.0`.
-- `script-run.sh` - runs the project in `detached mode` with env variable `PORT` set to 3000 and port forwarding from 8000 to application's port.
+- `script-run.sh` - runs the project in `detached mode` with env variables `PORT=4000`, `APP_TYPE=Node` and port forwarding from 8000 to application's port.
 ___
 
 3. **Go Project**
@@ -58,7 +59,8 @@ Dockerfile must have following:
 
 Create file `.env` in project directory which will store env variables:
 ```bash
-PORT=3000
+PORT=5000
+APP_TYPE=Go
 ```
 
 Create following scripts in root directory:
