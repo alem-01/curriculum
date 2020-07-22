@@ -19,11 +19,12 @@ You will need to create `dockerfile/python-project/Dockerfile` that dockerizes t
 Dockerfile must have following:
 - set workdir to `/app`
 - install dependencies
+- set env variable `PORT=3000`
 - entry point that runs the application
 
 Create following scripts in root directory:
 - `script-build.sh` - builds docker image with tag `python-project:1.0`.
-- `script-run.sh` - runs the project in `detached mode` with env variable `PORT` set to 3000 and port forwarding from 7000 to application's port.
+- `script-run.sh` - runs the project in `detached mode` and port forwarding from 7000 to application's port.
 ___
 
 2. **Node Project**
@@ -38,14 +39,9 @@ Dockerfile must have following:
 - install dependencies
 - entry point that runs the application
 
-Create file `.env` in project directory  which will store env variables:
-```bash
-PORT=3000
-```
-
 Create following scripts in root directory:
 - `script-build.sh` - builds docker image with tag `node-project:1.0`.
-- `script-run.sh` - runs the project in `detached mode` with including of env variables from file `.env` and port forwarding from 8000 to application's port.
+- `script-run.sh` - runs the project in `detached mode` with env variable `PORT` set to 3000 and port forwarding from 8000 to application's port.
 ___
 
 3. **Go Project**
