@@ -18,6 +18,7 @@ docker # ... your commands
 
 > run in `detached` mode by default for all exercises
 > [port](https://docs.docker.com/config/containers/container-networking/#published-ports)
+___
 
 2. **trapped HTML**
 
@@ -30,25 +31,30 @@ docker # ... port to 80 and mount directory
 ```
 
 > [mount volume](https://www.digitalocean.com/community/tutorials/how-to-share-data-between-the-docker-container-and-the-host)
+___
 
 3. **Don't stop me now!**
 
 Write script that _stops_ your running `nginx`.
+___
 
 4. **Show all containers**
 
 Write script that _shows_ all containers, including _exited_ ones.
 
 > [ps](https://docs.docker.com/engine/reference/commandline/ps/)
+___
 
 5. **Terminator**
 
 Write script that _removes_ `nginx` container.
+___
 
 6. **Images**
 
 Write script that _lists_ all images.
+___
 
-7. **Bye, nginx**
+7. **Bye, nginx!**
 
 Write script that _removes_ `nginx` image.
