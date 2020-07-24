@@ -39,6 +39,8 @@ docker # ... port to 80 and mount directory
 ```
 
 > [mount volume](https://www.digitalocean.com/community/tutorials/how-to-share-data-between-the-docker-container-and-the-host)
+
+> mount to directory `/usr/share/nginx/html`
 ___
 
 3. **Don't stop me now!**
