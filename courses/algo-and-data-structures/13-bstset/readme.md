@@ -1,9 +1,11 @@
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/RQtdVNIaH6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+
+
+
 <a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%B0">Wiki</a>    
 
 
 <a href="https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/">Подробное объяснение BST с примерами и кодом</a>   
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/RQtdVNIaH6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
