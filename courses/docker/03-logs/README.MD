@@ -14,7 +14,7 @@ logs of container named `web-app` since 2 hours and 30 minutes.
 ```bash
 sh logs1hour.sh
 ls
-> 2020-07-22T16:20.logs
+> logs1hour.sh  stats.sh  2020-07-22T16:20.logs
 ```
 
 2. **Stats, Now!**
@@ -27,5 +27,5 @@ Write script that outputs first result of container stats including exited ones 
 ```bash
 sh stats.sh
 ls
-> 2020-07-22T16:20.logs     2020-07-22T16:22.stats
+> logs1hour.sh  stats.sh  2020-07-22T16:20.logs  2020-07-22T16:22.stats
 ```
