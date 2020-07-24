@@ -18,6 +18,8 @@ Write a bash script to run `nginx` container on port _80_ and give it a name `ng
 docker # ... your commands
 ```
 
+After running the container, check out your [localhost](http://localhost)
+
 > run in `detached` mode by default for all exercises
 
 > [port](https://docs.docker.com/config/containers/container-networking/#published-ports)
@@ -38,6 +40,8 @@ container, so that it appears on _home_ page `localhost:80/`.
 ```bash
 docker # ... port to 80 and mount directory
 ```
+
+After running the container, [localhost](http://localhost) page should be changed.
 
 > to stop previous created container use: `docker stop nginx-container` and then `docker rm nginx-container`
 
