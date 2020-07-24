@@ -103,6 +103,8 @@ In `docker-entrypoint-initdb.d/init_db.sh` write code that will:
 - execute `CREATE DATABASE book_store`
 - fill `book_store` database using `fill.sql`. (due executing in container you need to specify full path `/docker-entrypoint-initdb.d/fill.sql`)
 
+`init_db.sh` will be run inside `postgres` container, so no need to call `docker exec ...`. Instead simply use `psql -U postgres ...`
+
 > In api_application service use [build](https://docs.docker.com/compose/compose-file/#build) instead of image
 
 > Set env variables using [environment](https://docs.docker.com/compose/compose-file/#environment)
