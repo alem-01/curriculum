@@ -19,6 +19,7 @@ docker # ... your commands
 ```
 
 > run in `detached` mode by default for all exercises
+
 > [port](https://docs.docker.com/config/containers/container-networking/#published-ports)
 ___
 
@@ -38,19 +39,14 @@ container, so that it appears on _home_ page `localhost:80/`.
 docker # ... port to 80 and mount directory
 ```
 
+> to stop previous created container use: `docker stop nginx-container` and then `docker rm nginx-container`
+
 > [mount volume](https://www.digitalocean.com/community/tutorials/how-to-share-data-between-the-docker-container-and-the-host)
 
 > mount to directory `/usr/share/nginx/html`
 ___
 
-3. **Don't stop me now!**
-
-File: `stop_nginx.sh`
-
-Write script that _stops_ container named `nginx`.
-___
-
-4. **Show all containers**
+3. **Show all containers**
 
 File: `show_containers.sh`
 
@@ -59,21 +55,14 @@ Write script that _shows_ all containers, including _exited_ ones.
 > [ps](https://docs.docker.com/engine/reference/commandline/ps/)
 ___
 
-5. **Terminator**
-
-File: `remove_nginx.sh`
-
-Write script that _removes_ container named `nginx`.
-___
-
-6. **Images**
+4. **Images**
 
 File: `list_images.sh`
 
 Write script that _lists_ all images.
 ___
 
-7. **Bye, nginx!**
+5. **Bye, nginx!**
 
 File: `rmi_nginx.sh`
 
