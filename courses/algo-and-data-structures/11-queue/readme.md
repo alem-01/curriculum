@@ -4,3 +4,8 @@
 
 **Для успешной сдачи данного урока, напиши код:**   
 - <a href="https://github.com/alem-classroom/student-algo-1-${GITHUB_LOGIN}/tree/master/queue" class="repo-button">Имплементация Queue</a>   
+
+
+Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/QaSKclaO">Github classroom</a>   
+
+
