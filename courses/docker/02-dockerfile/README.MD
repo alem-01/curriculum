@@ -11,6 +11,8 @@ Dockerfile is the file to build images. It has lines of instructions to build th
 
 1. **Python Project**
 
+File: `dockerfile/python-project/Dockerfile`
+
 In your repo you will find `dockerfile/python-project`. It has `README.MD` with instructions on 
 how to install dependencies and run the http server.
 
@@ -30,6 +32,8 @@ ___
 
 2. **Node Project**
 
+File: `dockerfile/node-project/Dockerfile`
+
 In your repo you will find `dockerfile/node-project`. It has `README.MD` with instructions on 
 how to install dependencies and run the http server.
 
@@ -46,6 +50,8 @@ Create following scripts in root directory:
 ___
 
 3. **Go Project**
+
+File: `dockerfile/go-project/Dockerfile`
 
 In your repo you will find `dockerfile/go-project`. It has `README.MD` with instructions on 
 how to install dependencies and run the http server.
