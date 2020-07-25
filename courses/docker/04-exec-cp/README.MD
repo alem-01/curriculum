@@ -26,7 +26,7 @@ File: `restore_backup.sh`
 Write a script that executes following sql scripts in `postgres` container:
 - `psql -U postgres -c "CREATE DATABASE exec_cp_database"`
 - `psql -U postgres -d exec_cp_database -f /postgres.backup`.
-
+___
 
 3. **Add some songs**
 
@@ -40,6 +40,7 @@ INSERT INTO songs (author, name) VALUES ('Elvis Presley', 'Blue Suede Shoes')
 ```
 
 > To call sql query in database `psql -U postgres -d <database_name>`
+___
 
 4. **Dont forget to backup!**
 
