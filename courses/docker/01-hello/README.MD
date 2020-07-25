@@ -12,7 +12,7 @@ You will get understanding of how to install Docker and how it works from inside
 
 File: `run_nginx.sh`
 
-Write a bash script to run `nginx` container on port _80_ and give it a name `nginx-container`.
+Write a bash script to run `nginx:1.19` container on port _80_ and give it a name `nginx-container`.
 
 ```bash
 docker # ... your commands
@@ -31,7 +31,7 @@ File: `mount_dir.sh`
 
 In your template you will find `hello/trapped_html` folder with `index.html`. 
 
-Write script that runs `nginx` container and mounts the `trapped_html` directory  
+Write script that runs `nginx:1.19` container and mounts the `trapped_html` directory  
 container, so that it appears on _home_ page `localhost:80/`.
 - port forwarding 80:80
 - mount directory
@@ -70,4 +70,4 @@ ___
 
 File: `rmi_nginx.sh`
 
-Write script that _removes_ `nginx` image.
+Write script that _removes_ `nginx:1.19` image.
