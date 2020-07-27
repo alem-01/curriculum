@@ -32,7 +32,7 @@
 
 
 Слабая типизация  
-Python является слабо типированным языком программирования, это означает что если переменная содержала в себе некий тип данных, ничего ей не мешает присвоить другой тип данных, например:  
+Python является слабо типизированным языком программирования, это означает что если переменная содержала в себе некий тип данных, ничего ей не мешает присвоить другой тип данных, например:  
 
 
 <iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/TenseCarefreeCubase?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>

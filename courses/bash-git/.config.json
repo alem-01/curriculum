@@ -1,0 +1,14 @@
+{
+    "name": "bash-git",
+    "title": "Bash + Git",
+    "prev": ["sign-up"],
+    "x": 0,
+    "y": 100,
+    "achievement": {
+        "name": "programming",
+        "title": "Programming freshman",
+        "description": "description",
+        "key": "b8eb8280-c10f-11ea-9512-c4b301d6ec23",
+        "icon": "https://cdn3.iconfinder.com/data/icons/halloween-128-colored-outline/128/Devil_Hell_Satan_evil_Demon-512.png"
+    }
+}

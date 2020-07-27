@@ -1,0 +1,14 @@
+{
+    "name": "android",
+    "title": "Android",
+    "prev": ["oop"],
+    "x": 400,
+    "y": 300,
+    "achievement": {
+        "name": "android",
+        "title": "Android Man",
+        "description": "description",
+        "key": "cd0c9026-c110-11ea-90d5-c4b301d6ec23",
+        "icon": "https://cdn3.iconfinder.com/data/icons/halloween-128-colored-outline/128/Devil_Hell_Satan_evil_Demon-512.png"
+    }
+}

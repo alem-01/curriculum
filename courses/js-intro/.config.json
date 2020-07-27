@@ -1,0 +1,14 @@
+{
+    "name": "js-intro",
+    "title": "Основы JavaScript",
+    "prev": ["front-end"],
+    "x": -200,
+    "y": 700,
+    "achievement": {
+        "name": "js-intro",
+        "title": "title",
+        "description": "description",
+        "key": "4",
+        "icon": "https://cdn3.iconfinder.com/data/icons/halloween-128-colored-outline/128/Devil_Hell_Satan_evil_Demon-512.png"
+    }
+}

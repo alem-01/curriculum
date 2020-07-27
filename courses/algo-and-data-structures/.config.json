@@ -1,0 +1,14 @@
+{
+    "name": "algo-and-data-structures",
+    "title": "Алгоритмы и структуры данных",
+    "prev": ["python-introduction"],
+    "x": 0,
+    "y": 300,
+    "achievement": {
+        "name": "algo-1",
+        "title": "title",
+        "description": "description",
+        "key": "1",
+        "icon": "https://cdn3.iconfinder.com/data/icons/halloween-128-colored-outline/128/Devil_Hell_Satan_evil_Demon-512.png"
+    }
+}

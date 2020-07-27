@@ -1,0 +1,14 @@
+{
+    "name": "sign-up",
+    "title": "Регистрация",
+    "prev": ["none"],
+    "x": 0,
+    "y": 0,
+    "achievement": {
+        "name": "sign-up",
+        "title": "let`s go",
+        "description": "description",
+        "key": "6",
+        "icon": "https://cdn3.iconfinder.com/data/icons/halloween-128-colored-outline/128/Devil_Hell_Satan_evil_Demon-512.png"
+    }
+}
