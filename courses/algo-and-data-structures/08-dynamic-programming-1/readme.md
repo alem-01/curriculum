@@ -16,7 +16,6 @@
 - На вторую ступень он может подняться 2 способами, сделав 2 шага высотой один, либо 1 шаг высотой 2 - (1, 1) или (2).  
 - На третью ступень можно сделать (1, 1, 1), (1, 2), (2, 1).  
 
-<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/IndolentUntriedLaboratory?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>  
 
 **Для успешной сдачи данного урока, напиши код:**
 

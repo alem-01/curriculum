@@ -23,7 +23,7 @@ selection sort, но он такой же медленный. Более эфф�
 неотсортирован. В целом, если в списке **n** элементов, достаточно **n - 1** итераций, можешь  
 наглядно увидеть это, отсортировав список (5, 4, 3, 2, 1). 
 
-<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/NavyFrenchRuntimeerror?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
 
 **Для успешной сдачи данного урока, напиши код:**
 

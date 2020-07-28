@@ -12,8 +12,6 @@
 1. Перемещаем начало списка на один элемент правее предыдущего и возвращаемся к первому шагу.
 
 
-<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/ZestyMiserableJavabeans?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
 **Для успешной сдачи данного урока, напиши код:**
 
 - <a href="https://github.com/alem-classroom/student-algo-and-data-structures-${GITHUB_LOGIN}/blob/master/sorting" class="repo-button">Сортировки</a>   

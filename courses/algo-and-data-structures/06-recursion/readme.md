@@ -19,7 +19,6 @@
 
 Также, прочитай про числа Фибоначчи, и попробуй сделать функцию для вывода числа фибоначи.
 
-<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/RectangularSupportiveMuse?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 **Для успешной сдачи данного урока, напиши код:**
 
