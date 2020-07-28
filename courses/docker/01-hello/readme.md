@@ -63,7 +63,13 @@ ___
 
 File: `list_images.sh`
 
-Write script that _lists_ all images.
+Write script that _lists_ all images in format `{{.Size}}\t{{.Repository}}:{{.Tag}}\t{{.ID}}` and sorts by size descending.
+
+```bash
+64.2MB  ubuntu:18.04                                2eb2d388e1a2
+72.9MB  ubuntu:eoan                                 2f6c85efea61
+88.1MB  node:lts-alpine                             927d03058714
+```
 ___
 
 5. **Bye, nginx!**
