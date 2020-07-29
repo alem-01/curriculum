@@ -72,7 +72,7 @@ Write script that _lists_ all images in format `{{.Size}}\t{{.Repository}}:{{.Ta
 ```bash
 88,1MB  node:lts-alpine                             927d03058714
 72,9MB  ubuntu:eoan                                 2f6c85efea61
-64,2MB  ubuntu:18.04                                2eb2d388e1a2
+64,2MB  ubuntu:18,04                                2eb2d388e1a2
 ```
 
 > Replace dots `.` in size to comma `,`.
