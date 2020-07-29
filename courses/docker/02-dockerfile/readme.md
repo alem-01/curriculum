@@ -7,6 +7,8 @@ Dockerfile is the file to build images. It has lines of instructions to build th
 - setting entrypoint (commands that run on container start)
 - many more...
 
+Repository: <a href="https://github.com/alem-classroom/student-docker-${GITHUB_LOGIN}/tree/master/dockerfile" class="repo-button">Dockerfile</a>
+
 ## Exercises
 
 1. **Python Project**

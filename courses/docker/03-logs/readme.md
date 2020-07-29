@@ -2,6 +2,8 @@
 
 Docker allows you to views logs of running applications and view stats of container I/O, CPU usage.
 
+Repository: <a href="https://github.com/alem-classroom/student-docker-${GITHUB_LOGIN}/tree/master/logs" class="repo-button">Logs</a>
+
 ## Exercises
 
 1. **Logs since 1 hour ago**
