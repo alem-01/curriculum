@@ -207,7 +207,7 @@ const list = {
     }
 }
 
-arrayToList(list) // → [1, 2, 3]
+listToArray(list) // → [1, 2, 3]
 ```
 
 8. **Deep Equal**
