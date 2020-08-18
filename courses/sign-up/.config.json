@@ -1,7 +1,7 @@
 {
     "name": "sign-up",
     "title": "Регистрация",
-    "prev": ["none"],
+    "prev": [],
     "x": 0,
     "y": 0,
     "achievement": {
