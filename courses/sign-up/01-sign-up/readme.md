@@ -2,7 +2,7 @@
 
 Перейди по ссылке чтобы авторизоваться через GitHub.
 
-[Регистрация](https://github.com/login/oauth/authorize?client_id=${CLIENT_ID}&redirect_uri=${REDIRECT_URL})
+[Регистрация](https://github.com/login/oauth/authorize?client_id=1cfcb5e918fc33de54de&redirect_uri=https://lrn.dev/api/auth/login)
 
 ## Как пользоваться платформой
 
