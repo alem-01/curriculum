@@ -1,10 +1,5 @@
 {
     "title": "Basic",
     "type": "project",
-    "repo_links": [
-        {
-            "title": "Basic",
-            "link": "https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/basic"
-        }
-    ]
+    "repo_link": "https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/basic"
 }

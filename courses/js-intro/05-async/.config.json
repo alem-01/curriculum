@@ -1,10 +1,5 @@
 {
     "title": "Async",
     "type": "project",
-    "repo_links": [
-        {
-            "title": "Async",
-            "link": "https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/async"
-        }
-    ]
+    "repo_link": "https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/async"
 }
