@@ -35,18 +35,12 @@
 Python является слабо типизированным языком программирования, это означает что если переменная содержала в себе некий тип данных, ничего ей не мешает присвоить другой тип данных, например:  
 
 
-<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/TenseCarefreeCubase?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+```python
+name = "John"  
+print(name)  
+name = 32  
+print(name)
+```
 
 
 В данной программе нет ничего криминального, Python позволяет такие операции. 
-
-
-**Для успешной сдачи данного урока, напиши код:**
-
-- <a href="https://github.com/alem-classroom/student-python-introduction-${GITHUB_LOGIN}/blob/master/variables-and-types" class="repo-button">Калькулятора</a>   
-
-- <a href="https://github.com/alem-classroom/student-python-introduction-${GITHUB_LOGIN}/blob/master/variables-and-types" class="repo-button">Управления строками</a>   
-
-
-Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/c9J3nA9U">Github classroom</a>   
-   

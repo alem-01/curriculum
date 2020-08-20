@@ -4,8 +4,6 @@
 
 To successfully submit the exercise push your code to your repo.
 
-<!-- <a href="https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/basic" class="repo-button">Basic Exercise</a> -->
-
 ## Exercise
 
 1. **Variables and Types**

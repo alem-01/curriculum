@@ -12,7 +12,14 @@ print("Здравствуй,", name)
 
 Приведу пример как для нахождения гипотенузы в прямоуголном треугольнике зная 2 катета. Напоминаю, зная два катета, гипотинуза равна квадратному корню суммы квадратов катетов.   
 
-<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/TubbyShabbyComputer?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+```python
+import math   
+def getHypotenuse(catet1, catet2):  
+    c = catet1 * catet1 + catet2 * catet2   
+    return math.sqrt(c)   
+
+print(getHypotenuse(3, 4))
+```
   
 ### Видео-материал по функциям
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/DJAlfolEv9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
@@ -22,15 +29,6 @@ print("Здравствуй,", name)
 ### Материалы для изучения и практики находятся <a href="https://python-scripts.com/functions-python" target="_blank">здесь</a> и <a href="https://wombat.org.ua/AByteOfPython/functions.html" target="_blank">здесь</a>   
 
 
-# Библиотеки  
+## Библиотеки  
 Во многих языках программирования есть такое понятие как библиотека. Библиотека - это совокупность функций которые могут быть полезны в той или иной ситуации. В Python очень много разных библиотек для Data Science, пользования сетевыми протоколами и форматами интернета, для работы с операционной системой что позволяет писать кросс-платформенные приложения, на самом деле библиотек очень много, описывать все библиотеки займет вечность, поэтому стоит поискать библиотеки именно под нужную тебе задачу, скорее всего кто-то уже написал для тебя все необходимое. Выше стоит пример использования библиотеки **math**, для того чтобы я могу получить функцию sqrt(), которая возвращает квадратный корень числа.
-
-
-**Для успешной сдачи данного урока, напиши код:** 
-
-- <a href="https://github.com/alem-classroom/student-python-introduction-${GITHUB_LOGIN}/blob/master/functions-packages" class="repo-button">Гипотенузы</a>   
-
-Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/c9J3nA9U">Github classroom</a>   
-
-
 

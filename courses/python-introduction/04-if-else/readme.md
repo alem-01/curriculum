@@ -3,8 +3,15 @@
 
 Следующее что важно узнать - условия (в оригинале if statements). Понятно, что та или иная операция происходит в зависимости от многих факторов, например банкомат выдаст тебе деньги если были соблюдены несколько условий: банкомат смог прочитать твою банковскую карту, ты ввел правильный ПИН код, у тебя есть сумма на счету, и так далее. Так как компьютер всего лишь исполняет то, что ты скажешь ему сделать, логично что в языках программирования есть условные инструкции. В Python они выглядят следующим образом:   
 
-<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/WhichAggressiveDatum?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
+```python
+a = 4
+if (a > 0):  
+    print('Число положительное')     
+elif (a < 0):   
+    print('Число отрицательное')     
+else:     
+    print('Число равно нулю')
+```
 
 Заметка - в языке Python нужно обязательно ставить табуляцию как в примере выше, табуляция ставится нажатием кнопки tab.    
     
@@ -24,12 +31,3 @@
 Таким образом можно делать комплексные условия.   
 
 Для большего понимания посмотри и <a href="https://pythontutor.ru/lessons/ifelse/" target="_blank">попрактикуйся здесь</a>.
-
-
-**Для успешной сдачи данного урока, напиши код:**
-
-- <a href="https://github.com/alem-classroom/student-python-introduction-${GITHUB_LOGIN}/blob/master/if-else" class="repo-button">If-else</a>   
-
-
-Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/c9J3nA9U">Github classroom</a>   
-

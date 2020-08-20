@@ -5,11 +5,6 @@ This is first lesson to get started with docker!
 We recommend you to start with [Docker curriculum](https://docker-curriculum.com/).
 You will get understanding of how to install Docker and how it works from inside.
 
-Before you start doing the exercises, you need to create a repo: [GitHub Classroom](https://classroom.github.com/a/wqRV1u-L)
-
-Your first assignment's repo:
-<a href="https://github.com/alem-classroom/student-docker-${GITHUB_LOGIN}/tree/master/hello" class="repo-button">Hello</a>
-
 ## Exercises
 
 1. **Run, Docker, Run!**

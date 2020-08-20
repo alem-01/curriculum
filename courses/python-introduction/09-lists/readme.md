@@ -14,14 +14,17 @@
 
 ## Пример использованию списка
 
-<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/SecondaryCoolLamp?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+```python
+lst = []
+# объявление списка
+lst.append(4)
+print(lst)
+lst.append(3)
+print(lst)
+lst.sort()
+print(lst)
+lst.reverse()
+print(lst)
 
-
-**Для успешной сдачи данного урока, напиши код:** 
-
-- <a href="https://github.com/alem-classroom/student-python-introduction-${GITHUB_LOGIN}/blob/master/lists" class="repo-button">Управление списками</a>   
-
-Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/c9J3nA9U">Github classroom</a>   
-
-
-
+print(lst.count(3))
+```
