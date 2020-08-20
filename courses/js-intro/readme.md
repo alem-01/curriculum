@@ -21,4 +21,3 @@ There is also an engine [node] (https://nodejs.org) that can execute JS code.
 
 You have to accept the invitation to assignment before starting to do the exercises.
 
-[Github Classroom Assignment](https://classroom.github.com/a/-CBU1cj6)

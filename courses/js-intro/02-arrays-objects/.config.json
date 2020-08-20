@@ -1,4 +1,10 @@
 {
     "title": "Arrays and Objects",
-    "type": "project"
+    "type": "project",
+    "repo_links": [
+        {
+            "title": "Arrays and Objects Exercise",
+            "link": "https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/arrays-objects"
+        }
+    ]
 }

@@ -1,4 +1,10 @@
 {
     "title": "Regex",
-    "type": "project"
+    "type": "project",
+    "repo_links": [
+        {
+            "title": "Regex",
+            "link": "https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/regex"
+        }
+    ]
 }
