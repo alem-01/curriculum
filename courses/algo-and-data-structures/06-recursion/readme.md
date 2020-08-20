@@ -18,11 +18,3 @@
 
 
 Также, прочитай про числа Фибоначчи, и попробуй сделать функцию для вывода числа фибоначи.
-
-
-**Для успешной сдачи данного урока, напиши код:**
-
-- <a href="https://github.com/alem-classroom/student-algo-and-data-structures-${GITHUB_LOGIN}/tree/master/recursion" class="repo-button">Чисел Фибоначчи рекурсией</a>   
-
-
-Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/C3CkZIsW">Github classroom</a>   

@@ -10,11 +10,3 @@
 
 
 <a href="https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html" class="repo-button">Подробное объяснение Set с примерами и кодом</a>   
-
-
-**Для успешной сдачи данного урока, напиши код:**   
-- <a href="https://github.com/alem-classroom/student-algo-and-data-structures-${GITHUB_LOGIN}/tree/master/bstset" class="repo-button">Имплементация Set через BST</a>   
-
-Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/C3CkZIsW">Github classroom</a>   
-
-

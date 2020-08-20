@@ -6,8 +6,6 @@ Docker allows you to group containers, so that they can communicate with each ot
 For example, _API application_ that need to connect to _database_, that both are running 
 in different containers.
 
-Repository: <a href="https://github.com/alem-classroom/student-docker-${GITHUB_LOGIN}/tree/master/network" class="repo-button">Network</a>
-
 ## Exercises
 
 1. **Create network**

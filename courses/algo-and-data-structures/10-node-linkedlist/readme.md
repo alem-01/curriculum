@@ -3,13 +3,3 @@
 
 <a href="https://tproger.ru/translations/linked-list-for-beginners/">Подробное объяснение списка с примерами</a>   
 
-
-**Для успешной сдачи данного урока, напиши код:**   
-
-- <a href="https://github.com/alem-classroom/student-algo-and-data-structures-${GITHUB_LOGIN}/tree/master/node" class="repo-button">Имплементация Node</a>   
-
-- <a href="https://github.com/alem-classroom/student-algo-and-data-structures-${GITHUB_LOGIN}/tree/master/linked-list" class="repo-button">Имплементация Linked List</a>
-
-Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/C3CkZIsW">Github classroom</a>   
-
-

@@ -12,7 +12,9 @@
 Функция **print("Hi!")** напечатает слово "Hi!" на экран без ковычек. Ставя ковычки, ты даешь компьютеру знать, что ты печатаешь текст.
 Попрактикуйся печатая разные тесты, у себя на компьютере. 
 
-<iframe height="400px" width="100%" src="https://repl.it/@SakenMukanov/WheatFragrantSyndrome?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+```python
+print('Hi!')
+```
  
 Также, опциональная задача - прочитать про специальные символы, и разные<a href="https://pythonworld.ru/tipy-dannyx-v-python/stroki-literaly-strok.html" target="_blank"> возможности функции print.</a>
 
@@ -35,10 +37,3 @@ print("Здравствуй,", name, "тебе", age, "лет")
 
 
 <a href="https://younglinux.info/python/input.php" target="_blank">Текстовый материал по print, input </a>  
-
-**Для успешной сдачи данного урока, напиши код:**
-
-- <a href="https://github.com/alem-classroom/student-python-introduction-${GITHUB_LOGIN}/blob/master/input-output" class="repo-button">Hello World!</a>   
-
-
-Если Github возвращает 404 ошибку, тебе нужно зарегистрироваться в <a href="https://classroom.github.com/a/c9J3nA9U">Github classroom</a>   

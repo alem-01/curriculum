@@ -103,6 +103,5 @@ ____
 
 ### Запусти команды тут
 
-Для запуска bash команд можете попробовать запустить команды в этом окне.
+Для запуска bash команд можете попробовать запустить команды в https://repl.it
 
-<iframe height="400px" width="100%" src="https://repl.it/repls/AdequatePointlessObservation?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>

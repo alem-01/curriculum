@@ -25,7 +25,6 @@ console.log(sum(range(1, 10)));
 
 At the end of the page you will find useful links to finish the exercises. 
 
-<a href="https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/higher-order" class="repo-button">Higher Order Exercise</a>
 
 ## Exercises
 
