@@ -1,4 +1,5 @@
 {
     "title": "Оператор for",
-    "type": "project"
+    "type": "project",
+    "repo_link": "https://github.com/alem-classroom/student-python-introduction-${GITHUB_LOGIN}/blob/master/loops-for"
 }
