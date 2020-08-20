@@ -1,5 +1,4 @@
 {
     "title": "Arrays and Objects",
-    "type": "project",
-    "repo_link": "https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/arrays-objects"
+    "type": "project"
 }

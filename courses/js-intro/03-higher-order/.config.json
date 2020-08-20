@@ -1,5 +1,4 @@
 {
     "title": "Higher Order",
-    "type": "project",
-    "repo_link": "https://github.com/alem-classroom/student-js-intro-${GITHUB_LOGIN}/tree/master/higher-order"
+    "type": "project"
 }

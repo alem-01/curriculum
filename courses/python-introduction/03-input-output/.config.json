@@ -1,5 +1,4 @@
 {
     "title": "Ввод и вывод данных",
-    "type": "project",
-    "repo_link": "https://github.com/alem-classroom/student-python-introduction-${GITHUB_LOGIN}/blob/master/input-output"
+    "type": "project"
 }
