@@ -1,11 +1,10 @@
 # Oh my, Dockerfile
 
-Dockerfile is the file to build images. It has lines of instructions to build the image like: 
-- installing dependencies
-- setting environmental variables
-- exposing ports
-- setting entrypoint (commands that run on container start)
-- many more...
+Dockerfile is a file with a list of instructions to create docker images. For example, let's imagine we want to make a docker image specific to our _Python_ application. The things that you will need to do are: install python, install pip package manager, install its dependencies.
+
+So, in docker if you have already built an image, you dont need to go through all these steps from the beginning all the time - docker allows you to reuse built images.
+
+> Google about Dockerfiles
 
 ## Exercises
 
